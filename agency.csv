@@ -1736,12 +1736,14 @@ c32e8f10-b7bc-4065-9719-313b43466527,flak.agency,available,52,8,4,,,
 3422325c-a3fb-4537-a97e-0cb3c612a558,flaring.agency,available,70,2,7,,,
 be43ac2a-887e-4fd2-b7f6-c926322fb9bd,flash.agency,available,64,19,5,,,
 530db778-ecae-4f63-913a-0c2cb8bf5d63,flat.agency,resell,116,23,4,"Sav.com, LLC - 48",05/11/2024 17:00,05/11/2025 17:00
-8aa74d66-d4c7-4be4-9af2-5d84dce8bd01,fleet.agency,available,62,,5,,,
+8aa74d66-d4c7-4be4-9af2-5d84dce8bd01,fleet.agency,available,62,21,5,,,
 d266c33c-6a25-468d-b05e-837856472f95,fleshly.agency,available,66,2,7,,,
 113b6db1-801b-4499-8546-4005a92dc6af,flickering.agency,available,80,2,10,,,
+d0224f8a-1c9f-4900-9a92-b8733855e202,flip.agency,resell,70,33,4,"Sav.com, LLC - 16",02/06/2025 15:15,02/06/2026 15:15
 e7d4c54f-ff61-4622-83a9-754086a2890f,flooded.agency,available,60,3,7,,,
 28dc8854-44c4-48d7-bce1-8f32aa7b4d74,flop.agency,available,60,9,4,,,
 7efc7a53-ed7b-4cdc-af16-9c4af096ab84,florid.agency,available,58,4,6,,,
+15dca172-1509-49b5-9721-f353af4a75e7,flower.agency,resell,74,30,6,"Sav.com, LLC",28/02/2023 17:00,28/02/2026 17:00
 509a794e-70d7-4638-8d8c-5524977d8da3,flying.agency,resell,96,22,6,"Sav.com, LLC - 29",13/03/2025 15:15,13/03/2026 15:15
 967c781c-8b2a-4df2-89f6-1070df8e86a4,flyspeck.agency,available,68,1,8,,,
 8c66d57d-5f2d-41f6-b792-49aa71b7af5f,fond.agency,available,116,11,4,,,
@@ -2019,7 +2021,7 @@ bf566e44-f9da-46e8-8b0a-0447cbe8edb7,negotiable.agency,available,62,3,10,,,
 cf02731f-0a8f-4761-b486-7e21144cf9fd,nettled.agency,available,45,1,7,,,
 f7626566-43ec-4081-9bbf-1462ed19cd5d,nettlesome.agency,available,41,1,10,,,
 d625b96d-b596-4c6c-a9b2-8afaa26fbe25,neutral.agency,resell,92,20,7,"Sav.com, LLC - 13",30/01/2025 15:15,30/01/2026 15:15
-1fa9bf03-9516-4338-b3a9-e81a121ce0d9,newbie.agency,resell,68,,6,"Sav.com, LLC - 45",18/08/2025 15:15,18/08/2026 15:15
+1fa9bf03-9516-4338-b3a9-e81a121ce0d9,newbie.agency,resell,68,24,6,"Sav.com, LLC - 45",18/08/2025 15:15,18/08/2026 15:15
 ba52199f-fa74-4986-a17d-188831799b85,nifty.agency,resell,82,26,5,"Sav.com, LLC - 27",26/03/2024 15:15,26/03/2026 15:15
 e17ed7d3-ab65-4408-9920-69aa58c9e64d,nightlong.agency,available,62,1,9,,,
 02b40a33-562b-4899-b014-9ac286df5435,niner.agency,available,58,5,5,,,
@@ -2156,6 +2158,7 @@ da202b13-3830-4e62-affe-563101184bf2,prevenient.agency,available,56,1,10,,,
 b91b6495-c60a-44b1-bac0-7f663910918c,preventive.agency,available,84,6,10,,,
 df04b693-8f47-4a7b-bbfe-c22955a3357c,prick.agency,available,70,6,5,,,
 044761d3-6dcf-4f19-a292-9f09bac333b3,prickly.agency,available,80,5,7,,,
+f164b417-681d-46c1-b4d2-0c3a795aa44c,prime.agency,available,76,,5,,,
 0be4cfbc-6cbd-4e41-820f-0720df126e4d,proclaimed.agency,available,62,1,10,,,
 0c185d9f-75c4-4753-9071-1c16aa44a148,prohibited.agency,available,44,5,10,,,
 240cceac-1c1e-49bf-9eb2-e66c262b850a,prototypal.agency,available,56,1,10,,,
@@ -2325,6 +2328,7 @@ a8b3b42f-a406-4254-ab84-633c55223613,slushy.agency,available,66,8,6,,,
 24c30dbf-7f7a-4cb2-b453-d1710e90b3ef,sly.agency,available,60,16,3,,,
 097cca9c-e23b-45d5-8776-dfe83bc28f65,smart.agency,resell,74,49,5,"Global Domains International, Inc. DBA DomainCostClub.com",24/06/2015 16:00,24/06/2026 16:00
 e259024f-a3df-42a7-a1d0-e51de68b118f,smash.agency,resell,78,28,5,Dynadot Inc,08/12/2019 21:02,08/12/2025 21:02
+9d263b86-c01c-4026-a58c-91edb70f7bc1,smooth.agency,resell,122,24,6,Porkbun LLC,02/01/2021 09:56,02/01/2026 09:56
 bde89892-7539-4efd-95a1-c975e9754d8e,smuggled.agency,available,56,2,8,,,
 2ad73fee-03de-4c83-af77-d4700117a7b5,sneak.agency,available,104,12,5,,,
 3daa822f-9fc5-49d5-ba14-3651eb731aad,soaker.agency,available,56,3,6,,,
