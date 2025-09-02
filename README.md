@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .AGENCY one-word domains still available to buy.
 
-This dataset contains 2,987 .AGENCY one word domains with availability, attractiveness and demand scores.
+This dataset contains 2,990 .AGENCY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.AGENCY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=description.top) (2,841) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.AGENCY one word domai
 | abaxial.agency    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.agency   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.agency  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.agency  | available | 82       | 2%     | 9      |           |         |         |
+| abdominal.agency  | available | 82       | 1%     | 9      |           |         |         |
 | abdominous.agency | available | 56       | 1%     | 10     |           |         |         |
 | abducens.agency   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.agency   | available | 68       | 1%     | 8      |           |         |         |
