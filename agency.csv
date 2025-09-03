@@ -290,7 +290,7 @@ c4e79800-f5b8-4518-a768-72f3f7e8a77c,afrikaans.agency,available,74,5,9,,,
 8ee84cee-26bf-45de-b5d5-f32f3175dea2,afrikander.agency,available,50,1,10,,,
 06860eb0-e639-423a-ad12-4bcef3fc4af3,afrikaner.agency,available,50,3,9,,,
 4cdfd63e-4a79-4e96-afa9-1d0537ea77f0,afroasian.agency,available,46,1,10,,,
-56e9a37a-fa91-4e9b-b32f-7785b091b706,after.agency,resell,100,23,5,Porkbun LLC,09/12/2020 13:47,09/12/2025 13:47
+56e9a37a-fa91-4e9b-b32f-7785b091b706,after.agency,resell,100,22,5,Porkbun LLC,09/12/2020 13:47,09/12/2025 13:47
 0b5da243-cb40-44b6-9a55-dda64ea59f5f,aftermost.agency,available,54,1,9,,,
 406ea24d-ec2d-400e-b3ad-7b8c0791889b,afterward.agency,available,40,3,9,,,
 74d11c87-30b8-4859-8ba6-59874bbbf227,afterwards.agency,available,40,3,10,,,
@@ -308,7 +308,7 @@ b3c078b6-704b-44a6-ba29-3a8cae381e9e,aggregate.agency,available,96,12,9,,,
 f4bf76b3-0d85-4b77-82fc-c2623e993990,aggregated.agency,available,56,3,10,,,
 d5918f4f-8d5e-413a-b9f0-9de3da3d1dda,aggressive.agency,available,84,6,10,,,
 8c81a948-7b3e-4e4e-9795-6d21057e2974,agile.agency,resell,92,36,5,Dynadot Inc,16/07/2018 08:19,16/07/2026 08:19
-1f786e29-d44f-42ff-982b-55135539a670,aging.agency,available,86,11,5,,,
+1f786e29-d44f-42ff-982b-55135539a670,aging.agency,available,86,10,5,,,
 6fd12f21-bb26-437b-886a-34221d3112e7,agitated.agency,available,58,2,8,,,
 2969d0e8-c573-4ae1-8b81-e447b9277da5,agitating.agency,available,54,1,9,,,
 ecb485c1-d6e6-466e-ab4f-41b604d4da73,agitative.agency,available,52,1,9,,,
@@ -2012,7 +2012,7 @@ aa4d476a-dd44-4332-9776-d774c12dbdaf,laborious.agency,available,50,1,9,,,
 de2e44c7-241c-4f9c-90bd-6fc4d820f674,larger.agency,available,76,4,6,,,
 77c898bb-6777-408c-9101-abec10f6401e,lasting.agency,available,84,12,7,,,
 e1a9c5ae-7720-495c-bf8d-7e3a14d9f3c7,late.agency,available,76,14,4,,,
-f73e08c6-dd67-4eb2-9704-c2bd0791ebd8,later.agency,available,74,17,5,,,
+f73e08c6-dd67-4eb2-9704-c2bd0791ebd8,later.agency,available,74,16,5,,,
 b640d0e7-d04c-4d02-8909-82092d617520,lateron.agency,available,40,2,8,,,
 1c7cf1e4-cc66-4877-8273-0a69569d63d1,latter.agency,available,72,10,6,,,
 f6958f37-4237-4e48-abdb-c8a0e74f4a21,laudable.agency,available,58,4,8,,,
@@ -2572,7 +2572,6 @@ fbed1977-e064-42ce-b775-f654c4de6800,seeing.agency,available,98,9,6,,,
 8b2ce544-7164-4cb0-a8eb-e410e0062d69,selfish.agency,available,56,10,7,,,
 e6a25a14-d791-4452-827d-53f69de89da9,selfless.agency,available,70,10,8,,,
 50fa5caf-7394-4782-971e-96b3d2de9d46,senescent.agency,available,52,3,9,,,
-c8c38d2f-54dd-43ad-a914-455f906dc920,senior.agency,resell,70,25,6,"Sav.com, LLC - 1",29/09/2024 17:00,29/09/2025 17:00
 58310254-f406-4c13-ad7a-a4d28d11ae99,sensual.agency,resell,68,11,7,"GoDaddy.com, LLC",16/06/2025 17:02,16/06/2026 17:02
 9a85ca1f-e19d-4c52-b4ab-a813d553b104,separate.agency,available,98,10,8,,,
 7cdb0428-e0d8-4d18-916b-9ec3f2b32ee0,septenary.agency,available,68,2,9,,,
@@ -2705,7 +2704,7 @@ e5c2aee2-dbf0-43fc-8388-0b2709931919,staminate.agency,available,56,1,9,,,
 1fc5ae6d-1dd2-4dce-bc72-8ce3d10bb14c,stamp.agency,resell,64,19,5,"Sav.com, LLC - 2",07/01/2025 15:15,07/01/2026 15:15
 852baeca-7fc3-46ce-89fc-cece661b4ec1,standard.agency,available,66,21,8,,,
 c620b66e-4688-47c3-9e78-2ba0f2c6896f,starchlike.agency,available,46,1,10,,,
-1b032f7a-dd66-4901-bb5c-9e3599752ff6,staring.agency,available,64,5,7,,,
+1b032f7a-dd66-4901-bb5c-9e3599752ff6,staring.agency,available,64,4,7,,,
 879d9c0a-714b-47ee-98d1-5b72be89e73e,starter.agency,resell,72,24,7,"GoDaddy.com, LLC",15/03/2018 21:54,15/03/2026 21:54
 79235854-0908-4e77-a02b-e3087d1dc983,stately.agency,available,72,6,7,,,
 a0665162-320c-42b6-8493-fb48177b8933,stay.agency,resell,62,31,4,"Sav.com, LLC",17/03/2021 02:50,17/03/2026 02:50
@@ -2840,7 +2839,6 @@ cdfa5e90-03d6-4e0c-9bfb-d3f3948c9e4d,tormented.agency,available,42,4,9,,,
 1bf804f4-466e-42df-a318-9e14d2bd2860,tortured.agency,available,42,3,8,,,
 3c3344bc-8e26-4cb7-8f34-b76671d76a63,torturing.agency,available,52,1,9,,,
 711e4d04-3397-48c5-a548-6a39798c8137,torturous.agency,available,48,1,9,,,
-503e5cfb-0109-4b23-aa98-bd5c2ca559ce,total.agency,resell,108,35,5,"Sav.com, LLC - 23",02/10/2024 15:15,02/10/2025 15:15
 f7937804-3558-4d79-beb9-8425adea1c5a,totaled.agency,available,74,2,7,,,
 3cbb5639-184c-4dc7-92c3-b488a55c188a,totality.agency,available,62,16,8,,,
 714728f0-81ba-418a-9585-1b902df31c4a,touch.agency,resell,112,23,5,Porkbun LLC,16/07/2021 12:29,16/07/2026 12:29
