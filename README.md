@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .AGENCY one-word domains still available to buy.
 
-This dataset contains 3,202 .AGENCY one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,223 .AGENCY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.AGENCY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=description.top) (3,025) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.AGENCY one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/agency-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/agency-oneword-domains/blob/main/agency.csv"><b>⬇️ CSV (3.2K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/agency-oneword-domains/blob/main/agency.json"><b>⬇️ JSON (3.2K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/agency-oneword-domains/blob/main/agency.csv"><b>⬇️ CSV (3.22K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/agency-oneword-domains/blob/main/agency.json"><b>⬇️ JSON (3.22K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.03K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.agency  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.agency      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.agency  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.agency    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.agency     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.agency   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.agency     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.agency    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.agency   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.agency  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.agency  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.agency | available | 56       | 1%     | 10     |           |         |         |
-| abducens.agency   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.agency   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.agency  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.agency    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.agency | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.agency   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.agency    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.agency  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.agency    | available | 106      | 5%     | 7      |           |         |         |
-| abient.agency     | available | 54       | 1%     | 6      |           |         |         |
-| abject.agency     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.agency     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.agency  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.agency     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.agency  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.agency    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.agency   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.agency     | available | 72       | 6%     | 6      |           |         |         |
+| Domain            | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
+| ----------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
+| abactinal.agency  | available | 50       | 1%     | 9      |                   |                  |                  |
+| abaft.agency      | available | 43       | 2%     | 5      |                   |                  |                  |
+| abandoned.agency  | available | 58       | 10%    | 9      |                   |                  |                  |
+| abashed.agency    | available | 60       | 2%     | 7      |                   |                  |                  |
+| abasic.agency     | available | 54       | 2%     | 6      |                   |                  |                  |
+| abatable.agency   | available | 54       | 1%     | 8      |                   |                  |                  |
+| abatic.agency     | available | 54       | 2%     | 6      |                   |                  |                  |
+| abaxial.agency    | available | 54       | 2%     | 7      |                   |                  |                  |
+| abbatial.agency   | available | 50       | 1%     | 8      |                   |                  |                  |
+| abdicable.agency  | available | 50       | 1%     | 9      |                   |                  |                  |
+| abdominal.agency  | available | 82       | 1%     | 9      |                   |                  |                  |
+| abdominous.agency | available | 56       | 1%     | 10     |                   |                  |                  |
+| abducens.agency   | available | 54       | 1%     | 8      |                   |                  |                  |
+| abducent.agency   | available | 68       | 1%     | 8      |                   |                  |                  |
+| abducting.agency  | available | 50       | 1%     | 9      |                   |                  |                  |
+| abenaki.agency    | available | 82       | 3%     | 7      |                   |                  |                  |
+| aberdonian.agency | available | 68       | 1%     | 10     |                   |                  |                  |
+| aberrant.agency   | available | 74       | 7%     | 8      |                   |                  |                  |
+| abeyant.agency    | available | 56       | 2%     | 7      |                   |                  |                  |
+| abhorrent.agency  | available | 54       | 1%     | 9      |                   |                  |                  |
+| abiding.agency    | available | 106      | 5%     | 7      |                   |                  |                  |
+| abient.agency     | available | 54       | 1%     | 6      |                   |                  |                  |
+| ability.agency    | resell    | 92       | 18%    | 7      | Sav.com, LLC - 10 | 05/02/2025 15:15 | 05/02/2026 15:15 |
+| abject.agency     | available | 94       | 8%     | 6      |                   |                  |                  |
+| abkhas.agency     | available | 68       | 1%     | 6      |                   |                  |                  |
+| abkhasian.agency  | available | 78       | 1%     | 9      |                   |                  |                  |
+| abkhaz.agency     | available | 82       | 2%     | 6      |                   |                  |                  |
+| abkhazian.agency  | available | 78       | 1%     | 9      |                   |                  |                  |
+| ablated.agency    | available | 52       | 2%     | 7      |                   |                  |                  |
+| ablative.agency   | available | 68       | 3%     | 8      |                   |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/agency-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/agency-oneword-domains/blob/main/agency.csv"><b>⬇️ CSV (3.2K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/agency-oneword-domains/blob/main/agency.json"><b>⬇️ JSON (3.2K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/agency-oneword-domains/blob/main/agency.csv"><b>⬇️ CSV (3.22K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/agency-oneword-domains/blob/main/agency.json"><b>⬇️ JSON (3.22K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.03K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
