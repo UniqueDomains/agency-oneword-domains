@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.AGENCY one word domai
 | ----------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
 | abactinal.agency  | available | 50       | 1%     | 9      |                   |                  |                  |
 | abaft.agency      | available | 43       | 2%     | 5      |                   |                  |                  |
-| abandoned.agency  | available | 58       | 10%    | 9      |                   |                  |                  |
+| abandoned.agency  | available | 58       | 7%     | 9      |                   |                  |                  |
 | abashed.agency    | available | 60       | 2%     | 7      |                   |                  |                  |
 | abasic.agency     | available | 54       | 2%     | 6      |                   |                  |                  |
 | abatable.agency   | available | 54       | 1%     | 8      |                   |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.AGENCY one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
