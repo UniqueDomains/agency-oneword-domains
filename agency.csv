@@ -4,6 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53b7dc6b-56b2-46e5-904a-b1bdbb6155ec,animate.agency,resell,,,74,17,7,"Spaceship, Inc.",21/02/2026 17:40,21/02/2027 17:40
 a76c5e34-356e-494f-8ef5-98760dab4ce6,gforce.agency,resell,,,76,12,7,"Sav.com, LLC - 6",15/03/2026 15:15,15/03/2027 15:15
 ca5e2f23-6c70-4e70-89f8-cc4265b51686,few.agency,resell,,,70,17,3,"Sav.com, LLC",02/03/2026 20:22,02/03/2027 20:22
+cecb7388-bc2a-437a-a7cf-2bd6526083e6,black.agency,resell,,,76,41,5,Dynadot Inc,21/02/2025 15:15,21/02/2027 15:15
 6dec1c00-45fe-40c4-b343-bbe62211c0e6,adynamic.agency,premium,,,50,1,8,,,
 f36354d2-f0ea-45ab-9591-519b9dcdf159,putoff.agency,premium,,,66,2,7,,,
 3d0e3130-4cb9-4c1e-b99b-49157aa04119,setting.agency,premium,,,84,9,7,,,
@@ -67,7 +68,7 @@ b1aa330e-0ad5-43be-9275-50fb56645c06,speech.agency,resell,,,96,23,6,"Sav.com, LL
 4758d3f9-1851-447c-9e9c-6b4206f574b0,complacently.agency,premium,,,50,1,12,,,
 21dd1ee6-ccfb-4c79-be7a-0da28c3fc0d8,makegoodtime.agency,premium,,,78,1,14,,,
 e5528c8c-7517-4dac-8705-e757db8ffe56,speculation.agency,premium,,,,5,11,,,
-e74461f1-1d0d-45b0-83ba-4d987cfa7797,futile.agency,premium,,,60,6,6,,,
+e74461f1-1d0d-45b0-83ba-4d987cfa7797,futile.agency,premium,,,60,5,6,,,
 3a86af5e-8a98-4092-ae51-811065ba3ced,highly.agency,premium,,,62,9,6,,,
 19f85e89-6693-46f1-a89a-0f53328e00c7,orphan.agency,premium,,,100,10,6,,,
 b9d430d1-d88b-4319-829c-f5ef21080b71,refrigerator.agency,premium,,,70,7,12,,,
@@ -187,6 +188,7 @@ cc5f1dbe-57ea-48c5-818d-73aa479ec84d,cube.agency,resell,,,92,43,4,"Spaceship, In
 0cd80be5-8afb-463c-a2fc-15e4bdab13f6,rapmusic.agency,premium,,,,4,9,,,
 4b5ca6f7-a7a2-454c-be4e-2dea1d9c5b50,acetabular.agency,premium,,,46,1,10,,,
 c133f5ba-c7a3-4737-83c2-f9870e0f6fce,asunder.agency,premium,,,48,2,7,,,
+1fc5ae6d-1dd2-4dce-bc72-8ce3d10bb14c,stamp.agency,resell,,,64,21,5,"Sav.com, LLC - 5",08/04/2026 15:15,08/04/2027 15:15
 3295d4af-63ec-4f38-b1d2-b67e5d5bd877,endurance.agency,resell,,,72,18,9,"Sav.com, LLC",10/03/2025 17:05,10/03/2027 17:05
 79b98575-7bfc-44c8-a044-1fbf914999fb,assertive.agency,premium,,,44,6,9,,,
 89cf10d9-eea1-439b-846f-36a92a301238,xcvi.agency,premium,,,52,3,4,,,
@@ -222,7 +224,7 @@ db913aa2-8c43-4112-806d-29934e0be38e,letterofindemnity.agency,premium,,,50,1,19,
 5ed4c6a3-c2f0-4c36-8a73-2c7a82ef9bc4,jacket.agency,premium,,,94,10,6,,,
 df75e672-80d0-4751-ad73-654af6a8d815,aunt.agency,premium,,,74,8,4,,,
 65023cf8-d55c-4142-af7c-4784b8d0ad6e,goldenopportunity.agency,premium,,,80,3,18,,,
-f5ae4509-0fe9-4b24-9771-ac296722ee54,colored.agency,premium,,,72,9,7,,,
+f5ae4509-0fe9-4b24-9771-ac296722ee54,colored.agency,premium,,,72,8,7,,,
 508f49b3-7bd0-4fb7-b7ed-55260cd8503b,nosecount.agency,premium,,,,1,10,,,
 ab943250-2fe2-4a31-a6c3-4350643c6063,autumn.agency,resell,,,66,24,6,Dynadot Inc,11/06/2025 03:32,11/06/2026 03:32
 d3e75864-b365-4231-9141-eb1aeb3a3503,photographicmemory.agency,premium,,,70,4,19,,,
@@ -348,7 +350,7 @@ b7f09014-d0da-4d6d-9e33-f11ec43f71d7,ought.agency,premium,,,80,6,5,,,
 03ae14a7-b966-42eb-888d-567ba758870a,deliver.agency,resell,,,90,32,7,"Sav.com, LLC - 25",18/05/2025 15:16,18/05/2026 15:16
 89c78f90-7d35-432f-8258-ab90fc09c411,aswell.agency,premium,,,72,5,7,,,
 80ce9b1e-0e74-41e9-80c8-97b1f78b2e79,photography.agency,resell,,,,21,11,"Spaceship, Inc.",21/08/2021 06:11,21/08/2026 06:11
-7793f556-022f-4a67-a593-e625c0b360b7,auroral.agency,premium,,,70,5,7,,,
+7793f556-022f-4a67-a593-e625c0b360b7,auroral.agency,premium,,,70,6,7,,,
 9614ff88-3020-4a2c-8016-e10d5f7a2ae4,breastbone.agency,premium,,,64,1,11,,,
 5515930c-272d-45b5-adbb-6e0cca68aea2,baboonish.agency,premium,,,40,1,9,,,
 16b562af-90e1-4d1b-a8ac-cb1ed2c09fb3,distant.agency,available,7.99,39.99,64,14,7,name.com,,
@@ -360,7 +362,7 @@ cd5b237c-0396-4617-b234-a01f49c54161,pressofficer.agency,premium,,,70,1,13,,,
 6b4a4369-b4f9-4fab-a8d1-bcc261ce797f,bemother.agency,premium,,,,1,9,,,
 5c5bbd3b-fcc3-45e3-8202-a242ae57069e,polish.agency,premium,,,94,21,6,,,
 4de29f92-0514-4a7b-a48a-9e6f8b2a620a,gaping.agency,premium,,,76,2,6,,,
-2653a686-e80b-4937-8900-fb0376a7f386,asteroid.agency,resell,,,66,18,8,"Sav.com, LLC",03/07/2025 19:53,03/07/2026 19:53
+2653a686-e80b-4937-8900-fb0376a7f386,asteroid.agency,resell,,,66,19,8,"Sav.com, LLC",03/07/2025 19:53,03/07/2026 19:53
 3b6f1c1a-cad2-4fa6-ae82-09d6c3180be8,billgates.agency,premium,,,72,9,10,,,
 cd5961d7-40b8-40b7-bcb0-431da9e81bb3,archeozoic.agency,premium,,,56,1,10,,,
 243d6ae6-1434-41af-ba77-6fbca194a1b5,occurring.agency,premium,,,80,2,9,,,
@@ -614,7 +616,7 @@ ecd8f289-0c56-47d3-9faa-1d97b4b67285,Fanta.agency,premium,,,98,13,5,,,
 3ac8c607-46c9-4040-a81d-363c411b0ebf,moneyeconomy.agency,premium,,,78,1,13,,,
 ab922fa3-6b31-47ec-99da-37babd98d543,skill.agency,resell,,,120,40,5,"Spaceship, Inc.",15/11/2024 15:15,15/11/2026 15:15
 50773a72-d803-48f7-a6f1-b7622e4a6872,pronounced.agency,premium,,,62,4,10,,,
-1b032f7a-dd66-4901-bb5c-9e3599752ff6,staring.agency,available,7.99,39.99,64,8,7,name.com,,
+1b032f7a-dd66-4901-bb5c-9e3599752ff6,staring.agency,available,7.99,39.99,64,7,7,name.com,,
 38b47937-f62f-46fe-93c1-219c70937d62,bead.agency,premium,,,92,15,4,,,
 2efb0a3e-76a8-4c03-96fa-bf722904a76b,jewelry.agency,resell,,,97,27,7,"GoDaddy.com, LLC",23/01/2017 08:48,23/01/2027 08:48
 dc423c47-18b6-441d-b87c-62aab408658d,clue.agency,resell,,,74,23,4,Dynadot Inc,05/10/2019 09:26,05/10/2026 09:26
@@ -665,7 +667,7 @@ ea20c6fe-ed8e-4007-9552-6422f13b280d,arenaceous.agency,premium,,,46,1,10,,,
 528b3108-7106-439b-a0e9-80ccc20951e9,muhfuggah.agency,premium,,,62,1,9,,,
 bce008c7-49fa-416a-8f2c-c159531844af,wobbly.agency,premium,,,65,8,6,,,
 910fb17f-be2b-4455-a0f6-b9bafbe7e81e,bedhead.agency,premium,,,68,3,8,,,
-05724939-432c-4d89-950d-8f092cb50566,ecological.agency,premium,,,74,12,10,,,
+05724939-432c-4d89-950d-8f092cb50566,ecological.agency,premium,,,74,11,10,,,
 ef657dc5-db70-4232-a003-349a7df4f1ad,restinpeace.agency,premium,,,,5,13,,,
 ec04262a-002e-4adf-8849-9316dacef356,agonizing.agency,premium,,,72,1,9,,,
 33551c4a-ca7f-46ce-9bde-df1f9105e048,charactertrait.agency,premium,,,70,1,15,,,
@@ -746,7 +748,7 @@ b0646690-cbd7-4af6-a59a-be7b8815c492,ilxxx.agency,premium,,,48,1,5,,,
 6897c700-91ea-47bf-b36f-fb2aac003cd1,amendatory.agency,premium,,,56,1,10,,,
 9921ac4f-c90a-4ae0-a4a7-f840825b36b2,seasick.agency,premium,,,52,3,7,,,
 496d5697-4697-419c-a8e2-2d1ac3a4cfb2,booted.agency,premium,,,66,3,6,,,
-406699ea-8d7e-4668-aaef-80deadc2f0e2,attractive.agency,premium,,,82,10,10,,,
+406699ea-8d7e-4668-aaef-80deadc2f0e2,attractive.agency,premium,,,82,9,10,,,
 b2392217-ec41-44ca-8086-a67f44854203,birds.agency,resell,,,74,17,5,"Sav.com, LLC - 1",30/07/2023 15:15,30/07/2026 15:15
 e8f2a87a-1a85-4b93-a52f-36480caa1950,coherently.agency,premium,,,62,3,10,,,
 970ef6ce-59a5-428c-b8c1-d18ee4cb6fad,intelligent.agency,resell,,,96,33,11,Edomains LLC,17/12/2023 15:15,17/12/2026 15:15
@@ -805,7 +807,7 @@ d0897293-a8bd-4c66-a6fc-2633d2dd7027,setonfoot.agency,premium,,,,1,11,,,
 2ab82cfd-cee9-43ca-95a2-fbb7fe32b4cf,exculpated.agency,premium,,,62,1,10,,,
 63fa2e6c-2b03-433f-91d9-21bb3c983fcc,flightpath.agency,premium,,,68,10,11,,,
 f754b098-3ec0-4ed1-b63e-5b83fea45bef,exist.agency,resell,,,82,12,5,Dynadot Inc,01/10/2025 08:28,01/10/2026 08:28
-bd1ceb0e-9f31-4d5f-b444-fab3e79d8f18,dock.agency,resell,,,70,24,4,"Sav.com, LLC - 21",01/10/2025 15:15,01/10/2026 15:15
+bd1ceb0e-9f31-4d5f-b444-fab3e79d8f18,dock.agency,resell,,,70,23,4,"Sav.com, LLC - 21",01/10/2025 15:15,01/10/2026 15:15
 9c483f32-54fa-46dd-9fec-bcaa24fdef09,reversible.agency,premium,,,81,8,10,,,
 d23232cf-0e4c-40cb-86f7-10d790ebb844,secondguess.agency,premium,,,60,2,12,,,
 aa82bfae-7577-4453-93e0-ee9e65bf8f43,antiguan.agency,premium,,,74,1,8,,,
@@ -915,7 +917,7 @@ b78e724e-d59c-40d2-9f26-cd78327cad22,grungy.agency,premium,,,44,2,6,,,
 9ff4d9b0-1f65-42b4-aec6-db7829e16618,adorned.agency,premium,,,66,5,7,,,
 d43531fc-665c-411e-8a25-b258b920cb01,reflex.agency,resell,,,108,23,6,"Sav.com, LLC - 16",05/04/2025 15:15,05/04/2027 15:15
 741677c1-a760-4087-a607-f15de51d3f48,astonish.agency,premium,,,78,5,8,,,
-694a7539-f33f-43ba-8415-4bf047641751,avocado.agency,resell,,,96,33,7,"Sav.com, LLC - 15",02/04/2025 15:15,02/04/2027 15:15
+694a7539-f33f-43ba-8415-4bf047641751,avocado.agency,resell,,,96,34,7,"Sav.com, LLC - 15",02/04/2025 15:15,02/04/2027 15:15
 61330226-4e74-46af-8b0c-4c2ed6c81d4c,lettersize.agency,premium,,,51,1,11,,,
 38788daf-4ffb-4e28-872b-f5adbc4c6182,eliminate.agency,premium,,,66,7,9,,,
 e3aaf64e-2d42-49e1-90ab-6f5febe9a2cd,schmaltzy.agency,premium,,,42,1,9,,,
@@ -1085,7 +1087,7 @@ ae369b66-4870-4cf7-b218-ad0b84541344,ford.agency,premium,,,82,18,4,,,
 ac8a67cf-77a5-4e76-b82b-063262cfbb0a,reference.agency,resell,,,90,19,9,"Sav.com, LLC - 49",22/09/2025 15:15,22/09/2026 15:15
 04b9df4f-6e37-495e-b976-631ba626a20d,atheist.agency,premium,,,88,11,7,,,
 1f541e32-0cbb-43a0-8ef1-14a02ef574db,protection.agency,resell,,,71,18,10,"Sav.com, LLC - 26",30/09/2025 15:15,30/09/2026 15:15
-4077063a-0e71-4cfd-beea-dc39cd7d1e2f,oldtimer.agency,premium,,,70,14,9,,,
+4077063a-0e71-4cfd-beea-dc39cd7d1e2f,oldtimer.agency,premium,,,70,15,9,,,
 ca38d13e-0e40-4f31-a831-134b1727036c,somebody.agency,premium,,,88,12,8,,,
 9b541afb-30ad-4a7e-bcaa-4c1d0c3df656,asthesayinggoes.agency,premium,,,44,1,18,,,
 80ab4987-84cc-46da-9f7f-e285fc06a757,overtheboard.agency,premium,,,,2,14,,,
@@ -1104,7 +1106,7 @@ f982ffb3-a095-49f3-a0ec-93c5c5f6a6b6,cordlesstelephone.agency,premium,,,76,1,18,
 4b6f952e-ee54-45a3-923a-877a74c60b08,offhand.agency,premium,,,70,2,7,,,
 9b7a0af5-43ac-4b1c-b410-f60c1902e172,pat.agency,resell,,,78,29,3,"Sav.com, LLC - 15",18/03/2025 15:15,18/03/2027 15:15
 267ce094-18d2-4204-bf5f-e9ce99275639,youwhat.agency,premium,,,,2,8,,,
-95de64e7-d714-4270-a7fa-ad41d899ceb6,courageous.agency,premium,,,76,12,10,,,
+95de64e7-d714-4270-a7fa-ad41d899ceb6,courageous.agency,premium,,,76,11,10,,,
 117f4469-36b7-4d4f-84cd-b4d21fd93dac,autoimmune.agency,premium,,,48,5,10,,,
 03b903b6-cfac-48e0-8b9d-d3f5fa59ea3a,abrupt.agency,available,3.99,35.99,100,4,6,name.com,,
 99e45557-4822-48cf-8d48-60f5d23c9da9,successfully.agency,premium,,,66,4,12,,,
@@ -1145,13 +1147,13 @@ a50f15bf-ba65-4a9f-9929-1b6ce3d1061d,quintet.agency,premium,,,58,8,7,,,
 8efcdddd-8797-46fd-b607-26faa33e6624,moldy.agency,premium,,,52,10,5,,,
 b414dcfb-1727-4024-9573-44424c2aad46,onmain.agency,premium,,,64,2,7,,,
 ee3bb986-e8ce-491e-81a6-36f69388219b,regional.agency,resell,,,82,17,8,Dynadot Inc,28/06/2025 17:00,28/06/2026 17:00
-56e9a37a-fa91-4e9b-b32f-7785b091b706,after.agency,resell,,,100,28,5,Porkbun LLC,09/12/2020 13:47,09/12/2026 13:47
+56e9a37a-fa91-4e9b-b32f-7785b091b706,after.agency,resell,,,100,27,5,Porkbun LLC,09/12/2020 13:47,09/12/2026 13:47
 68c3d64a-67d8-47b1-a411-44e5c72f5969,monitoring.agency,resell,,,72,27,10,"Sav.com, LLC - 43",18/07/2025 15:15,18/07/2026 15:15
 e793e55b-4c2b-4808-b641-09b2a21f5fa0,exhaust.agency,premium,,,101,8,7,,,
 4ae7ffe2-1fb1-45de-b91d-176388bc51c6,comparable.agency,available,7.99,39.99,87,6,10,name.com,,
 24f88305-0a80-4b02-8571-b1f17e43e101,admittable.agency,premium,,,56,2,10,,,
 dadf6a86-9208-4635-bc91-22574d4936db,twothumbsup.agency,premium,,,,2,13,,,
-d92f44d3-ea69-4ff2-9d88-2c9f235ca809,binding.agency,premium,,,92,9,7,,,
+d92f44d3-ea69-4ff2-9d88-2c9f235ca809,binding.agency,premium,,,92,8,7,,,
 d6470c13-b899-45d7-b53a-15cfec11c413,amendable.agency,premium,,,68,2,9,,,
 a74f2714-243f-48a5-9016-907b79d8861c,anyway.agency,resell,,,70,16,6,"Sav.com, LLC - 21",31/01/2026 15:15,31/01/2027 15:15
 264c18dc-924b-49ae-b7a9-24bc744c5c50,surprising.agency,premium,,,88,7,10,,,
@@ -1209,7 +1211,7 @@ e8a898d1-d1e9-4be7-ad8f-4f0d23fcdad2,seasonably.agency,premium,,,44,1,10,,,
 1a81b001-8634-4f4f-810f-938b7ea7851d,buttony.agency,premium,,,68,2,7,,,
 859466a8-c232-432d-b090-246d1102665e,envious.agency,available,7.99,39.99,62,7,7,name.com,,
 3539bed1-e064-4cd7-8abc-dd29869c79a3,watchful.agency,premium,,,64,6,8,,,
-28d6149c-c483-4c3a-932f-69bc7809a4bc,panoramic.agency,premium,,,88,12,9,,,
+28d6149c-c483-4c3a-932f-69bc7809a4bc,panoramic.agency,premium,,,88,13,9,,,
 ce715c9e-ebf4-4d49-8f73-1386f2202558,advertised.agency,premium,,,54,3,10,,,
 15d8c9e2-55dc-443e-8be8-049014d18c0b,eyesight.agency,premium,,,68,6,9,,,
 871a4b9d-bb27-49b4-85fb-d5cc895b3991,retired.agency,premium,,,76,12,7,,,
@@ -1217,7 +1219,7 @@ f27be399-5966-4619-8188-fa0c75afa942,tiein.agency,premium,,,54,3,6,,,
 0a7137a8-9d3a-4ff4-8423-1f34f2015a50,adjectival.agency,premium,,,72,2,10,,,
 ee4712f4-b464-4b56-81e6-909a6aabe4da,antenna.agency,premium,,,76,19,7,,,
 c5fafe1b-5598-4b00-bb21-58e669a7dbed,sombudy.agency,premium,,,62,1,7,,,
-8f20da77-8565-49e4-af3b-7f07866e9471,aussie.agency,resell,,,96,24,6,"Sav.com, LLC - 26",12/01/2026 15:15,12/01/2027 15:15
+8f20da77-8565-49e4-af3b-7f07866e9471,aussie.agency,resell,,,96,25,6,"Sav.com, LLC - 26",12/01/2026 15:15,12/01/2027 15:15
 d1cf75bb-2555-4efb-85b1-5f3528937fe5,gowith.agency,premium,,,74,6,7,,,
 2ced8539-6d0a-4b51-81cb-1b8461ba65bd,detox.agency,resell,,,92,23,5,"Sav.com, LLC - 26",07/08/2025 15:15,07/08/2026 15:15
 8be2e8da-e641-407f-ab0d-d99041b0e1db,eremitic.agency,premium,,,46,1,8,,,
@@ -1308,7 +1310,7 @@ d3af2306-d400-42a9-94a6-d17b5e4ee442,joking.agency,premium,,,79,7,6,,,
 b15fc6af-95c7-42e6-b647-c3cdca85af63,log.agency,resell,,,90,37,3,Netregistry Wholesale Pty Ltd,27/06/2024 17:00,27/06/2026 17:00
 3a23615f-57ca-4874-90b6-1e0c93f9cd21,anumberof.agency,premium,,,56,1,11,,,
 6ffe2096-e1ee-4804-9ebf-b01c35f41b25,feather.agency,resell,,,64,25,7,Dynadot Inc,26/09/2022 18:21,26/09/2026 18:21
-29ce1917-4b44-4503-aa56-14d94e832da7,based.agency,resell,,,96,45,5,"Sav.com, LLC - 16",27/09/2025 15:15,27/09/2026 15:15
+29ce1917-4b44-4503-aa56-14d94e832da7,based.agency,resell,,,96,47,5,"Sav.com, LLC - 16",27/09/2025 15:15,27/09/2026 15:15
 4ff752e5-a241-4ae1-a92e-81a71e345231,text.agency,resell,,,98,42,4,"Spaceship, Inc.",10/06/2023 15:15,10/06/2026 15:15
 97c94a5f-126a-4469-9081-f213a12fce2c,teacher.agency,resell,,,76,25,7,"Sav.com, LLC",10/07/2025 17:08,10/07/2026 17:08
 bafa5967-cf5e-43d7-bc7e-f9001d742814,sensationally.agency,premium,,,60,1,13,,,
@@ -1462,7 +1464,7 @@ e758701f-1593-41be-b883-4028a8a7ab1e,claire.agency,resell,,,68,25,6,"Sav.com, LL
 d1f4e191-6c09-4f54-bb36-be6a80b50016,childmolestation.agency,premium,,,52,1,17,,,
 8bcffe99-5650-4705-82e3-a2d276bf4c83,moneyed.agency,premium,,,70,5,7,,,
 f8f089ee-ce51-4649-b279-f6903eceed5d,adventure.agency,resell,,,94,38,9,"Spaceship, Inc.",25/01/2019 13:57,25/01/2027 13:57
-05b8c785-7bfe-4617-a33e-70347c55e138,complete.agency,resell,,,120,26,8,Porkbun LLC,08/02/2022 19:05,08/02/2027 19:05
+05b8c785-7bfe-4617-a33e-70347c55e138,complete.agency,resell,,,120,25,8,Porkbun LLC,08/02/2022 19:05,08/02/2027 19:05
 63b9d62b-2b47-4806-ac62-238c7e0b6a4d,fatigue.agency,premium,,,88,10,7,,,
 8ecfcdb1-f20d-4ca7-b4aa-41dfe34af8eb,china.agency,premium,,,84,5,5,,,
 7cdfca61-5421-4c37-88bc-068e8a0d7bcd,killedinaction.agency,premium,,,38,2,16,,,
@@ -1516,6 +1518,7 @@ fe1987a0-6122-4ae4-893e-447fc3081afd,pinging.agency,premium,,,70,2,7,,,
 6b27be94-f794-4a71-92b0-cf7a9eac3bac,holes.agency,premium,,,66,6,5,,,
 a8b8456b-a96c-4013-b7be-90e4a491f727,apheretic.agency,premium,,,45,1,9,,,
 54574f4e-aeaf-4f08-9b02-365370f7f367,pressed.agency,premium,,,68,11,7,,,
+7ab341d5-1f49-49ed-a0e2-3e74c3596cec,breezy.agency,resell,,,76,22,6,"Sav.com, LLC - 24",08/04/2026 15:15,08/04/2027 15:15
 b17b8222-18e0-4a25-86e9-bc14260d60dd,awhile.agency,premium,,,60,5,6,,,
 a258c1bf-b829-4d57-b7c8-bc4c50c482e3,twothousand.agency,premium,,,,1,12,,,
 937e27c9-1bee-4336-aaa3-30d9472cce1c,asquint.agency,premium,,,56,1,7,,,
@@ -1568,7 +1571,7 @@ f63427c7-f591-4b05-88ae-0ea295960962,outofhand.agency,premium,,,,5,11,,,
 26d74138-c222-4d07-9fe8-ec3f2f9349a2,knowledgeable.agency,premium,,,86,5,13,,,
 556ae512-9844-4694-af0e-875126e4c23e,dip.agency,resell,,,70,23,3,Dynadot Inc,23/11/2025 17:00,23/11/2026 17:00
 5db3bdba-e115-48e6-a9d4-50bbba143d92,distress.agency,premium,,,84,7,8,,,
-e21d700f-74c5-435f-a2fa-0e1ea13e870c,awake.agency,resell,,,100,99,5,"Sav.com, LLC - 25",03/12/2023 15:15,03/12/2026 15:15
+e21d700f-74c5-435f-a2fa-0e1ea13e870c,awake.agency,resell,,,100,38,5,"Global Domains International, Inc. DBA DomainCostClub.com",05/03/2026 15:15,05/03/2027 15:15
 c4c279a9-b23e-4ace-ae10-10ecbde7cb78,times.agency,resell,,,80,24,5,"GoDaddy.com, LLC",25/06/2025 17:04,25/06/2026 17:04
 a1dcf340-cc4d-437f-aa47-a3c908ffd6c3,knew.agency,premium,,,50,8,4,,,
 ea5161da-c0cb-455a-9bc2-67ca798dbc83,dismissed.agency,available,7.99,39.99,50,5,9,name.com,,
@@ -1578,7 +1581,7 @@ f48c56e0-5238-408c-a991-376bbb9ca82e,rightaway.agency,premium,,,,4,10,,,
 229bdbdf-c359-4773-a1eb-ef4d2f466920,cotyloidal.agency,premium,,,44,1,10,,,
 4f45e0aa-c4f2-4372-8ac3-f64ceb231ae7,wastebasket.agency,premium,,,86,2,11,,,
 a7c1c537-3b6b-40ed-bacf-dcc8620b5b50,highdefinition.agency,premium,,,72,4,15,,,
-5a73e9aa-351a-4a56-882f-cd66b848a08c,weakened.agency,premium,,,52,2,8,,,
+5a73e9aa-351a-4a56-882f-cd66b848a08c,weakened.agency,premium,,,52,1,8,,,
 01634540-504e-4fcd-b061-db46f0ff4eee,money.agency,resell,,,80,45,5,Porkbun LLC,30/04/2014 16:00,30/04/2026 16:00
 140dd327-78fa-49a1-b066-6e045fdbd58b,squat.agency,premium,,,94,6,5,,,
 7c9ae220-dbff-40a5-a083-f72da5ebea50,pinkelephant.agency,premium,,,64,7,13,,,
@@ -1834,8 +1837,8 @@ d6da4e0b-29b4-4a26-a755-d4d61108362e,puttowords.agency,premium,,,,1,12,,,
 112d1815-2f3a-47fc-9798-9177094eb0b3,letterofwishes.agency,premium,,,72,1,16,,,
 4d72578d-5270-41db-8fb1-4c90aafe1ed4,whitegold.agency,premium,,,,6,10,,,
 fa0b047a-e716-4b6f-9bd2-25b39d67627e,legs.agency,premium,,,76,13,4,,,
-eba9cb8d-a11b-403b-b24e-51209362686e,skillful.agency,available,7.99,39.99,70,11,8,name.com,,
-794d517d-422e-4c50-9c83-9e9e095e6652,tenth.agency,available,7.99,39.99,116,9,5,name.com,,
+eba9cb8d-a11b-403b-b24e-51209362686e,skillful.agency,available,7.99,39.99,70,10,8,name.com,,
+794d517d-422e-4c50-9c83-9e9e095e6652,tenth.agency,available,7.99,39.99,116,8,5,name.com,,
 8e91f1e7-5f79-43d3-90c1-6de4d237df28,taxes.agency,resell,,,,16,5,"Sav.com, LLC - 31",07/09/2025 15:15,07/09/2026 15:15
 f199b167-275e-434e-a4d5-2f80a4f59db7,mockturtleneck.agency,premium,,,71,2,15,,,
 62e88933-9eda-48df-ade9-8e73451af7f7,baseless.agency,premium,,,48,4,8,,,
@@ -1966,20 +1969,20 @@ d8fe7023-6477-4478-b0a7-207f1f0b72b5,advancing.agency,available,7.99,39.99,72,9,
 35ea2532-3ca2-46c9-b1d9-0405ee0413b9,initially.agency,premium,,,64,4,9,,,
 00c80b92-843e-4d1c-958c-f4360893c7ba,waterfountain.agency,premium,,,74,4,14,,,
 b96c6e90-0e30-4610-97f7-f9a8a5855baa,install.agency,resell,,,94,23,7,"Sav.com, LLC - 49",27/02/2025 15:15,27/02/2027 15:15
-0c352f96-c7cc-47d8-bac3-a1da194fbe86,allout.agency,available,7.99,39.99,84,9,7,name.com,,
+0c352f96-c7cc-47d8-bac3-a1da194fbe86,allout.agency,available,7.99,39.99,84,8,7,name.com,,
 dfffb025-cb11-4969-aeff-0b8fc0190010,avenged.agency,premium,,,62,1,7,,,
 6b20c473-a130-4006-b54c-5bd85043602a,atrocious.agency,premium,,,46,4,9,,,
 e6c8331c-9b4c-4d6a-aa20-eab408d78231,capitalize.agency,premium,,,72,9,10,,,
 983b5506-57a3-4acb-beb3-ff3b1612b0c3,Iknowit.agency,premium,,,54,4,9,,,
 c8bcdd27-81d3-44a5-80f7-67cfbd9b27a6,who.agency,premium,,,68,7,3,,,
-5f627cb8-353c-46ab-b121-6fcc24950961,aujus.agency,premium,,,68,3,6,,,
+5f627cb8-353c-46ab-b121-6fcc24950961,aujus.agency,premium,,,68,2,6,,,
 c140cfac-e082-4a70-a3a8-e01f9327e7a6,apsidal.agency,premium,,,47,2,7,,,
 28e3a937-b70f-4c78-9a16-d3602431bc3f,extensive.agency,premium,,,42,5,9,,,
 e9e33d6a-8f51-4fbb-83de-4772d65a45e8,rudimentary.agency,premium,,,78,3,11,,,
 65738830-b57b-4a80-aa88-329dd5f39987,acrogenic.agency,premium,,,46,1,9,,,
 9de8a187-3514-4c3e-8203-e5a5ece1e0d3,tea.agency,resell,,,102,38,3,"Sav.com, LLC - 33",06/10/2025 15:15,06/10/2026 15:15
 5e89cafa-a580-4f2a-bf42-6b575ed83048,comeintotheworld.agency,premium,,,72,0,19,,,
-10f603e3-2fc2-42ed-93b2-af8a64447f9e,shit.agency,resell,,,64,42,4,"Sav.com, LLC - 25",30/03/2025 15:15,30/03/2027 15:15
+10f603e3-2fc2-42ed-93b2-af8a64447f9e,shit.agency,resell,,,64,43,4,"Sav.com, LLC - 25",30/03/2025 15:15,30/03/2027 15:15
 73ac450b-dadc-4e0f-a200-f1f6a2231a23,archean.agency,premium,,,60,4,7,,,
 2c773a1b-4929-4194-969e-ea9c96c28c50,would.agency,premium,,,104,10,5,,,
 814bc0d2-60c5-4195-a7c9-6d0c67a53fa9,disgust.agency,premium,,,86,4,7,,,
@@ -2041,7 +2044,7 @@ f6ae705b-c97d-4a53-a827-84ac4280e3eb,greens.agency,premium,,,72,18,6,,,
 4da5d40d-6305-4cd8-8891-9a50f2f48875,buried.agency,premium,,,62,7,6,,,
 2f9fd078-2c1e-45c7-8800-f7458617a923,annular.agency,premium,,,54,3,7,,,
 787cb642-7708-425b-aa58-1e870e37f40f,shallow.agency,premium,,,54,9,7,,,
-34e70d4c-ef68-424c-8869-cc11512c3aac,esthetic.agency,available,7.99,39.99,70,8,8,name.com,,
+34e70d4c-ef68-424c-8869-cc11512c3aac,esthetic.agency,available,7.99,39.99,70,9,8,name.com,,
 c45dc993-d8ac-4d46-9672-e46b0a22f0d7,men.agency,premium,,,70,27,3,,,
 8485ed80-deb3-4492-a556-e7d87d084c52,apopemptic.agency,premium,,,64,1,10,,,
 8bfdfba4-c733-42d7-a865-a2563e8dfcc1,pilot.agency,resell,,,114,37,5,"Spaceship, Inc.",26/10/2021 13:15,26/10/2026 13:15
@@ -2054,7 +2057,7 @@ af8c5907-7e89-4f59-8604-a71b017cb24d,poverty.agency,premium,,,58,10,7,,,
 2f2bb7c2-9208-4c37-a78c-6005f56002fd,basinal.agency,premium,,,46,1,7,,,
 b98f13ce-cdc0-4195-ac6c-680da44f550e,looking.agency,premium,,,72,17,7,,,
 a9295700-32da-4354-93dc-a73fbeff8067,sloping.agency,premium,,,66,1,7,,,
-f204f6ea-8512-45a0-b10f-3331e55a9385,auriferous.agency,premium,,,66,3,10,,,
+f204f6ea-8512-45a0-b10f-3331e55a9385,auriferous.agency,premium,,,66,2,10,,,
 8e2edbb5-afc4-4050-aa3c-314192293919,ancestral.agency,premium,,,80,14,9,,,
 6469785a-fd65-4b54-8de8-3c73c0384243,inverted.agency,premium,,,48,8,8,,,
 a7898ded-b807-445a-adfb-46d1e079b7ce,dickhead.agency,premium,,,36,5,8,,,
@@ -2164,7 +2167,7 @@ f2c5b49e-b4ee-4f10-bea0-ce2cd75bef87,iceblue.agency,premium,,,90,6,8,,,
 8ea542e4-0264-4711-b514-ab03f6074a60,hanukkah.agency,premium,,,70,10,8,,,
 edef9a15-8827-4497-85ad-88afc62d78dc,softwarepackage.agency,premium,,,72,1,16,,,
 e6376c74-2fd9-48ca-81d8-8c123807d477,check.agency,resell,,,76,38,5,"Spaceship, Inc.",12/03/2022 13:15,12/03/2027 13:15
-50649e58-2b40-4151-87f7-328d632ea0d7,enlarged.agency,premium,,,66,1,8,,,
+50649e58-2b40-4151-87f7-328d632ea0d7,enlarged.agency,premium,,,66,2,8,,,
 9d28d4f3-4f43-4392-ab62-be3cdc03b516,riled.agency,premium,,,44,2,5,,,
 d077115d-eba3-4e7c-af20-958d37e50b63,NewChicago.agency,premium,,,,2,11,,,
 9d2aa4ae-5e9e-4a47-ba14-720621721562,xliii.agency,premium,,,56,1,5,,,
@@ -2221,7 +2224,7 @@ ad8549d8-d512-4eed-bd30-4c6d5a9082ca,appointive.agency,premium,,,46,2,10,,,
 998ee8a7-f7b4-46f3-9a2d-c3d3ecb6e799,dendroidal.agency,premium,,,52,1,10,,,
 ee1b12d6-acda-420b-9822-e48afb032d58,basiscopic.agency,premium,,,42,1,10,,,
 ea8b7e16-dfd9-461c-a9ba-3cb99d79d733,serious.agency,resell,,,80,26,7,"Sav.com, LLC - 13",21/07/2025 15:15,21/07/2026 15:15
-76d7aaac-4047-4951-85f4-581be3e44ae7,clown.agency,resell,,,98,30,5,"Sav.com, LLC - 41",06/12/2025 15:15,06/12/2026 15:15
+76d7aaac-4047-4951-85f4-581be3e44ae7,clown.agency,resell,,,98,31,5,"Sav.com, LLC - 41",06/12/2025 15:15,06/12/2026 15:15
 08e331a3-c3e9-4731-84a4-9903e1847406,aspirin.agency,premium,,,74,5,7,,,
 b878efea-2f3b-4a7e-a367-6ed6ba95bdb5,acids.agency,premium,,,50,3,5,,,
 0f6d04fc-b644-4422-96a1-078d423fb863,thirteen.agency,available,7.99,39.99,84,12,8,name.com,,
@@ -2232,7 +2235,7 @@ b5a5fba6-d189-4fb9-ad79-583061fbd58c,assailable.agency,premium,,,44,1,10,,,
 e340b8dd-a335-4fe9-96ad-c8856a569af6,auxinic.agency,premium,,,56,1,7,,,
 cee8cc00-cc9d-434f-bb61-e95f98ae7429,Imustsay.agency,premium,,,62,1,10,,,
 b6c66d38-7e38-4693-92c9-3d1187924f69,affined.agency,premium,,,48,1,7,,,
-3837459d-168a-496f-82fb-3ffce35a2e50,before.agency,resell,,,84,19,6,"Sav.com, LLC",18/10/2025 19:52,18/10/2026 19:52
+3837459d-168a-496f-82fb-3ffce35a2e50,before.agency,resell,,,84,18,6,"Sav.com, LLC",18/10/2025 19:52,18/10/2026 19:52
 3de58247-67d0-4f4b-8ebc-9300a2ca9cfa,wealthy.agency,resell,,,78,22,7,"Sav.com, LLC - 13",01/03/2026 15:15,01/03/2027 15:15
 7c57f1c7-c0f5-43ca-89c0-6f2f2ae01958,pertinent.agency,premium,,,72,4,9,,,
 8773bbf8-3569-4d56-94e3-7fdb4cf0d789,Internetlike.agency,premium,,,66,1,12,,,
@@ -2264,7 +2267,7 @@ e0d2a8ff-a412-49ac-ab0c-698f2bd2ec49,asian.agency,resell,,,82,26,5,"Sav.com, LLC
 995b32d8-85c5-4b46-80e6-25306dc06c15,lager.agency,premium,,,88,11,5,,,
 c11e5235-e61e-491a-9500-f0615104e282,profile.agency,resell,,,76,31,7,"Sav.com, LLC - 22",12/02/2026 15:15,12/02/2027 15:15
 8c371b9e-de05-4564-b171-c7b72fffeac7,quaternary.agency,premium,,,46,3,10,,,
-55302870-3df5-444b-9595-bb89b3de743c,bloom.agency,resell,,,72,52,5,"Spaceship, Inc.",26/10/2019 01:53,26/10/2026 01:53
+55302870-3df5-444b-9595-bb89b3de743c,bloom.agency,resell,,,72,53,5,"Spaceship, Inc.",26/10/2019 01:53,26/10/2026 01:53
 f656b8d9-7557-4efd-9e47-1962bd672d1d,unpaid.agency,premium,,,60,4,6,,,
 209f96ca-bfce-482b-b087-23087c0e1a42,treeofsorrow.agency,premium,,,,1,14,,,
 3dacba47-cf7d-44b8-93ee-7804e756133e,nighttime.agency,premium,,,,6,9,,,
@@ -2332,7 +2335,7 @@ d12cdd15-ad39-410c-8fd2-bc75457204f8,nobudy.agency,premium,,,62,1,6,,,
 a8aaaedb-a63e-4294-a03b-a5233793de44,unsound.agency,premium,,,58,5,7,,,
 c6635547-c06a-41f8-b2fd-22f4c88a5001,bloodless.agency,premium,,,44,2,9,,,
 8bacdea4-83c3-47f9-a1b3-46ad88a2333e,widen.agency,premium,,,68,8,5,,,
-745dc924-c523-4625-b355-afe988642992,austere.agency,premium,,,60,7,7,,,
+745dc924-c523-4625-b355-afe988642992,austere.agency,premium,,,60,6,7,,,
 77cf2882-cdca-44ec-854e-68181f54f3ae,adpressed.agency,premium,,,54,1,9,,,
 4b3aa061-331b-4fbb-979a-fef842db1d01,sundress.agency,premium,,,76,4,8,,,
 de970116-f27c-4ebb-830f-a509cba346f6,amylolytic.agency,premium,,,64,1,10,,,
@@ -2360,7 +2363,7 @@ f66b1c73-27f3-41ae-9eb1-3f5ce982103e,againstallodds.agency,premium,,,74,8,16,,,
 c0d3a9de-e133-4f4b-ba0e-7417027a1c43,curse.agency,available,7.99,39.99,78,13,5,name.com,,
 7abdd7d2-cd4e-454e-8c40-2a0e102a98f1,chickendance.agency,premium,,,70,2,13,,,
 8ebc84b7-5317-45c3-a386-06931855cfe9,spellcheck.agency,premium,,,72,4,11,,,
-d9fa7feb-c213-4b7f-a026-b8bce5897ca3,armed.agency,premium,,,70,11,5,,,
+d9fa7feb-c213-4b7f-a026-b8bce5897ca3,armed.agency,premium,,,70,10,5,,,
 7207b9ed-f7fb-49b6-b2c2-f448aa488908,streetcleaner.agency,premium,,,,2,14,,,
 bd2a2481-a45c-45de-ad01-694f902e58d0,acetylic.agency,premium,,,46,1,8,,,
 f4551ca3-a531-49e5-98e0-92791b556842,alamo.agency,premium,,,64,18,5,,,
@@ -2475,6 +2478,7 @@ c02303ec-ba7e-401e-a05b-da76a2926337,sexslave.agency,premium,,,54,3,9,,,
 71b00a9a-3772-4b58-b596-184b06543d4a,prat.agency,premium,,,56,6,4,,,
 754f9717-2591-4f28-8bbd-ff336851eed1,unshakable.agency,premium,,,72,7,10,,,
 5e940875-90a0-4ffe-b7e4-66a59993b6d4,Wikimedia.agency,premium,,,,9,9,,,
+6b262b07-b125-448a-aeb9-41ee3594ba90,fuzzy.agency,resell,,,80,25,5,"Sav.com, LLC - 14",16/01/2026 15:15,16/01/2027 15:15
 c1764b91-ef76-418e-8842-f9dccf207d05,twin.agency,resell,,,80,33,4,"Sav.com, LLC - 43",11/01/2026 15:16,11/01/2027 15:16
 4a2c682e-0b05-43db-bad6-9d53d877eb9e,auld.agency,premium,,,54,5,4,,,
 bc0f9d8f-0d9e-44d4-8e59-5fd7ae2ed4ba,observed.agency,premium,,,68,5,8,,,
@@ -2542,7 +2546,7 @@ d0b304b1-58c2-409c-aeda-08d969be6842,admissive.agency,premium,,,56,2,9,,,
 9463ea99-6932-4e4d-b9f9-ebcfe8636195,amongst.agency,premium,,,54,4,7,,,
 b97dbd85-e6cd-434e-8339-f4f946e3ec7a,bucket.agency,premium,,,62,20,6,,,
 80bfad85-8194-405f-a7df-0d41f1d188f9,StPetersburgh.agency,premium,,,64,1,15,,,
-1430e38d-b14b-4330-bbe7-3eeead305575,antique.agency,resell,,,72,19,7,"GoDaddy.com, LLC",11/06/2022 21:02,11/06/2026 21:02
+1430e38d-b14b-4330-bbe7-3eeead305575,antique.agency,resell,,,72,18,7,"GoDaddy.com, LLC",11/06/2022 21:02,11/06/2026 21:02
 9041e89b-cb0f-46fc-9ad3-3d0501308a99,knowwhat.agency,premium,,,42,2,9,,,
 bab0f508-9f4b-4561-adb3-6a58071854f4,jumping.agency,premium,,,88,9,7,,,
 5c9bccde-a259-4546-995b-6e4c77acd874,hindermost.agency,premium,,,42,1,10,,,
@@ -2639,7 +2643,7 @@ cc625f25-b3bc-43a6-b674-8b1a93afa4c9,blueraspberry.agency,premium,,,74,1,14,,,
 7cd9e9f7-556a-4374-9918-c6f80859c909,breakinto.agency,premium,,,68,3,10,,,
 0ec80eea-dd4d-467a-a6af-f97be715d95b,kookie.agency,premium,,,72,6,6,,,
 2d22ecff-e363-4042-a0e2-36f1e72271e6,Walmart.agency,premium,,,92,40,7,,,
-b98cd823-bb77-4071-bb28-d04a4b28b29d,authorised.agency,premium,,,70,3,10,,,
+b98cd823-bb77-4071-bb28-d04a4b28b29d,authorised.agency,premium,,,70,4,10,,,
 c3afa6d2-180b-4a0e-ac63-adce975c7e36,afflictive.agency,premium,,,54,1,10,,,
 e17a23ba-7d02-42f6-9402-a9554dffba30,enjoy.agency,premium,,,88,20,5,,,
 c089dcf1-d9fd-473a-9ed7-cd1753eac601,archaic.agency,premium,,,76,9,7,,,
@@ -2744,7 +2748,7 @@ e1d1b091-1280-4b4d-8e99-9758a84d52a7,polonecksweater.agency,premium,,,73,1,17,,,
 0d9ff479-4643-4078-9955-2be51bb0027b,organ.agency,premium,,,70,12,5,,,
 fb1d9e5d-1691-4066-b05e-2351b25289ec,lookinto.agency,premium,,,70,3,9,,,
 cda14aa9-403d-46ec-b359-c0777459b547,markets.agency,resell,,,62,23,7,"Sav.com, LLC - 30",03/03/2025 15:15,03/03/2026 15:15
-e1a9c5ae-7720-495c-bf8d-7e3a14d9f3c7,late.agency,premium,,,76,16,4,,,
+e1a9c5ae-7720-495c-bf8d-7e3a14d9f3c7,late.agency,premium,,,76,17,4,,,
 6fb6d810-4360-430e-901c-177cdeb6bb94,clowning.agency,premium,,,68,4,8,,,
 af8de6b6-dbeb-462c-b9e7-df059c9e78e9,raisehell.agency,premium,,,,1,10,,,
 04f2bad5-77df-4ba9-a495-558ef6497d9b,auditory.agency,premium,,,88,6,8,,,
@@ -2752,7 +2756,7 @@ af8de6b6-dbeb-462c-b9e7-df059c9e78e9,raisehell.agency,premium,,,,1,10,,,
 2042f3af-c4b2-40da-b75f-e309e224b6d2,afflicted.agency,premium,,,54,3,9,,,
 4255b0ba-e1f8-491c-9c6b-c5240b8856f4,descend.agency,premium,,,94,5,7,,,
 39d3ad30-9729-4ad5-9c96-febbb7b13ba9,dankmeme.agency,premium,,,70,2,9,,,
-362f7b01-c3a1-4183-ac05-5e9136804149,fierce.agency,resell,,,80,28,6,"Sav.com, LLC - 12",09/08/2025 15:15,09/08/2026 15:15
+362f7b01-c3a1-4183-ac05-5e9136804149,fierce.agency,resell,,,80,30,6,"Sav.com, LLC - 12",09/08/2025 15:15,09/08/2026 15:15
 fdfc4ba1-1448-43f5-b6de-586e7904e0fe,ISO.agency,premium,,,80,6,3,,,
 5418dfc9-cc67-4334-9db6-6b64fd9f56cd,pop.agency,resell,,,82,44,3,"Sav.com, LLC",24/12/2023 17:00,24/12/2026 17:00
 e5aaa9da-7a04-453a-99e8-fa6a22283c11,chanukkah.agency,premium,,,68,2,9,,,
@@ -3159,7 +3163,7 @@ e069ba5d-7e27-493f-9e95-ef8ed00dc5bb,respected.agency,premium,,,81,6,9,,,
 4aaecfa6-2c81-447e-867d-cdd4e6cc5f8d,eyry.agency,premium,,,74,3,4,,,
 72a244ae-e3a1-4c08-8c65-4fad11748a53,victim.agency,premium,,,64,10,6,,,
 e55a8f4f-211c-47cc-a9a5-5e29269cf2ba,bacterioid.agency,premium,,,42,1,10,,,
-2ca723de-4496-4529-ad51-4a4f1789abb1,prejudice.agency,premium,,,86,3,9,,,
+2ca723de-4496-4529-ad51-4a4f1789abb1,prejudice.agency,premium,,,86,4,9,,,
 dc928513-dfb5-47e6-bf6b-f85f460e4598,comeout.agency,premium,,,74,3,8,,,
 a37b6b6a-dfd3-4cb3-9a66-e38d301d4763,barytone.agency,premium,,,60,0,8,,,
 aca10e55-a5e9-4848-90ab-8c31379833cc,absorbed.agency,available,7.99,39.99,72,4,8,name.com,,
@@ -3211,7 +3215,7 @@ ed8ece6b-2b7e-41a8-b2c7-d3b8c3ab780b,manual.agency,resell,,,66,19,6,"GoDaddy.com
 f668e21c-040a-4f12-bdf0-a413d4d51093,soft.agency,resell,,,124,33,4,Epik LLC,31/05/2019 22:27,31/05/2026 22:27
 7e7d6e6f-66bb-4e7b-9f44-fe9e184beb76,exercisebike.agency,premium,,,70,2,13,,,
 d9cf1609-f070-4986-80fd-99f5e065b303,readfor.agency,premium,,,,1,8,,,
-959a2b8a-2629-4fce-bb96-768970e20241,bouncing.agency,premium,,,90,7,8,,,
+959a2b8a-2629-4fce-bb96-768970e20241,bouncing.agency,premium,,,90,6,8,,,
 5ded920a-d9d2-4f73-8fb3-8dde67f42003,hockeyplayer.agency,premium,,,82,2,13,,,
 4345c3a8-7c8b-423a-b8e0-d810912e5b5f,art.agency,resell,,,90,52,3,GoDaddy Online Services Cayman Islands Ltd.,24/06/2015 16:00,24/06/2033 16:00
 af363d34-10aa-42b2-9c81-f5af0ab2640f,fuck.agency,resell,,,124,70,4,"Sav.com, LLC - 48",11/08/2025 17:00,11/08/2026 17:00
@@ -3256,7 +3260,7 @@ a5b5cd19-47fa-47c8-8062-41713abd9e26,bendystraw.agency,premium,,,76,2,11,,,
 685fd81c-3482-42eb-b095-d66a271e5d5e,tin.agency,resell,,,62,22,3,"Sav.com, LLC - 6",07/11/2025 15:15,07/11/2026 15:15
 d60c5484-21b6-4265-b498-a1a5fb3d68cc,alleged.agency,available,7.99,39.99,70,6,7,name.com,,
 54366462-27d8-4bfc-8eb0-4b9915b35b16,WestBranch.agency,premium,,,,2,11,,,
-c92e14b5-5cfb-409c-bce9-d22e7d17b949,billion.agency,resell,,,82,25,7,Dynadot Inc,02/10/2021 18:22,02/10/2026 18:22
+c92e14b5-5cfb-409c-bce9-d22e7d17b949,billion.agency,resell,,,82,22,7,Dynadot Inc,02/10/2021 18:22,02/10/2026 18:22
 54b96979-837c-401c-819a-9428d98c8404,cent.agency,resell,,,74,14,4,"Sav.com, LLC - 3",10/07/2025 17:35,10/07/2026 17:35
 ed885f18-ca81-4998-8cd1-401ab8aa3e80,price.agency,premium,,,68,30,5,,,
 c62c3d9a-aa53-40d2-ae7f-216ea417ae4d,save.agency,resell,,,70,39,4,"Spaceship, Inc.",24/02/2023 17:00,24/02/2027 17:00
@@ -3265,7 +3269,7 @@ eddf2746-ae69-455f-bd96-a2863c9647cc,wellbehaved.agency,premium,,,,2,12,,,
 926cf52e-5472-459d-b640-dc397c843a2f,childporn.agency,premium,,,52,4,10,,,
 7a6e9dd6-b502-4900-ac7c-cec11c532eb6,amaurotic.agency,premium,,,46,1,9,,,
 2d97c9b9-ae4f-4d54-abac-a75267575048,plumpfor.agency,premium,,,54,1,9,,,
-c13e9a64-19a4-4f3f-bfa8-2a88a467986b,hunkydory.agency,available,7.99,39.99,70,6,10,name.com,,
+c13e9a64-19a4-4f3f-bfa8-2a88a467986b,hunkydory.agency,available,7.99,39.99,70,7,10,name.com,,
 bc5f5ea7-2ff7-4da9-aa6e-d6350cd5c16b,ontheedgeof.agency,premium,,,52,1,14,,,
 be0c8517-024d-48fd-a3d6-93f034175ed7,bacteremic.agency,premium,,,42,1,10,,,
 c4ca1201-d569-43e7-ba24-46f315374b8b,butif.agency,premium,,,44,1,6,,,
@@ -3326,7 +3330,7 @@ e1a46e18-ba57-4e22-a046-fcd1df44857d,briefly.agency,resell,,,65,22,7,"Sav.com, L
 1f860537-51eb-4b10-afcc-ec90cba760fd,alaskan.agency,premium,,,76,9,7,,,
 b0dd1eea-c4de-477f-9954-ebbec8a7aadd,aldehydic.agency,premium,,,52,1,9,,,
 393678d9-fb98-49de-8d8f-6cf5eb86895c,recent.agency,premium,,,82,13,6,,,
-66864239-55b2-45ba-8e66-75df2fb91de9,rocky.agency,resell,,,64,26,5,"Sav.com, LLC - 3",17/01/2026 15:15,17/01/2027 15:15
+66864239-55b2-45ba-8e66-75df2fb91de9,rocky.agency,resell,,,64,27,5,"Sav.com, LLC - 3",17/01/2026 15:15,17/01/2027 15:15
 eb81e5d6-2e95-4539-87a1-4031419603b6,fasttravel.agency,premium,,,98,3,11,,,
 4a239020-4334-4e85-96fc-4015049ba7c4,insteadof.agency,premium,,,48,3,10,,,
 deb8ebdb-791d-46c0-ad5e-15877489d20d,whitestuff.agency,premium,,,,7,11,,,
@@ -3402,7 +3406,7 @@ ced2a3b1-45ff-409e-b54b-94ff6efe1af5,party.agency,resell,,,118,38,5,"Spaceship, 
 6da108ae-0785-440f-ba1e-2306d5c89c36,teeshirt.agency,premium,,,76,8,9,,,
 0ca2bc27-fd19-47aa-8cc2-a90ed305d938,cheesefood.agency,premium,,,64,1,11,,,
 4d9bedcd-e403-475d-8fe1-b7df5a63e62a,whip.agency,premium,,,70,16,4,,,
-40209703-8f03-46de-9cf7-643bde9fb1b6,bothered.agency,premium,,,64,4,8,,,
+40209703-8f03-46de-9cf7-643bde9fb1b6,bothered.agency,premium,,,64,3,8,,,
 c0945508-6771-4a4f-a503-807ab9ab7cee,onlytoo.agency,premium,,,,1,8,,,
 f013d527-93ac-4af4-bd0b-1ad7b945f3ab,normandy.agency,premium,,,54,9,8,,,
 7e52c9fd-07c9-4d24-8100-387b07450aab,manythanks.agency,premium,,,84,3,11,,,
@@ -3481,7 +3485,7 @@ ee13751f-07b2-4917-b94e-52c82fbf1af6,noquarter.agency,premium,,,,5,10,,,
 47a2ced9-97de-4aec-b024-29a431eb4924,anaclitic.agency,premium,,,46,1,9,,,
 aa736acc-55b5-482d-b070-3ddff89dc2eb,offcolor.agency,premium,,,44,2,9,,,
 91525ef6-de23-4c89-af0d-776fc33dfded,facilitating.agency,premium,,,55,1,12,,,
-f2894cd9-bbfa-48b3-9d8d-89d469136147,animating.agency,premium,,,72,3,9,,,
+f2894cd9-bbfa-48b3-9d8d-89d469136147,animating.agency,premium,,,72,4,9,,,
 3c128c77-f1a4-4696-9fb7-e5f0398fd123,saintlike.agency,premium,,,66,2,9,,,
 21425b19-7b4b-4379-9760-7d08c46e4114,mitigatory.agency,premium,,,66,1,10,,,
 d48bcc33-5358-453c-82a6-f9c3fb737009,thirteenth.agency,premium,,,76,3,10,,,
@@ -3504,7 +3508,7 @@ bc1db86a-47a5-4d5b-8dbe-ecd40c1e4602,whatwasthat.agency,premium,,,,3,13,,,
 255df5f2-9739-49b1-b763-b871d5b5ba5e,lavaliermicrophone.agency,premium,,,76,1,19,,,
 c32e8f10-b7bc-4065-9719-313b43466527,flak.agency,premium,,,52,8,4,,,
 53aa4f2d-1d64-40f1-96a4-ccbecbb79a05,eachother.agency,premium,,,54,6,10,,,
-05765187-2115-46d8-9b1d-a241b532d49a,bizarre.agency,premium,,,74,14,7,,,
+05765187-2115-46d8-9b1d-a241b532d49a,bizarre.agency,premium,,,74,13,7,,,
 c5bc4d7f-a60e-4b5a-bfc3-bbb7c4b5a571,animal.agency,resell,,,92,33,6,"Sav.com, LLC - 1",27/12/2024 15:15,27/12/2026 15:15
 8a37c3db-03a6-4423-ad09-c933cd0946d1,enthralled.agency,premium,,,54,1,10,,,
 d03d3fea-4e6d-4eac-8225-94252db62fac,Nicky.agency,premium,,,66,11,5,,,
@@ -3535,10 +3539,10 @@ ea6d5dda-067b-4b68-8065-4f399bb78122,connection.agency,resell,,,68,24,10,"Spaces
 575bea97-36aa-4cd1-b6ba-ca03677b0a76,cheesepizza.agency,premium,,,74,2,12,,,
 9176718e-0553-46f2-bc74-9ef4a4e40451,funds.agency,resell,,,78,20,5,"Sav.com, LLC - 11",01/09/2025 15:15,01/09/2026 15:15
 6cde5a1a-7466-4de3-989e-2c1b3b212434,necessarily.agency,premium,,,58,2,11,,,
-f74ee036-fc0e-4a89-a8e7-6d09754b58dd,severe.agency,premium,,,56,7,6,,,
+f74ee036-fc0e-4a89-a8e7-6d09754b58dd,severe.agency,premium,,,56,8,6,,,
 3591be59-a72c-4002-9d69-59072fbd9f3e,arachnoid.agency,premium,,,64,2,9,,,
 11b51594-8c51-4397-a111-33c32ffb1ec7,nana.agency,resell,,,76,29,4,"GoDaddy.com, LLC",13/04/2016 16:20,13/04/2026 16:20
-41480dac-917a-4be3-8831-21e37f2ff13e,wing.agency,resell,,,62,28,4,"Sav.com, LLC - 24",08/03/2025 15:15,08/03/2027 15:15
+41480dac-917a-4be3-8831-21e37f2ff13e,wing.agency,resell,,,62,29,4,"Sav.com, LLC - 24",08/03/2025 15:15,08/03/2027 15:15
 6cd989e7-3663-4ce0-a35a-b6c5a1ddcb64,profess.agency,premium,,,77,6,7,,,
 3c1414e3-1ee0-4457-95c2-323d89d8e5e4,pyramid.agency,resell,,,76,30,7,"Spaceship, Inc.",02/08/2024 15:15,02/08/2026 15:15
 5c3fcd60-d915-4cde-b833-116ee5283e7c,unbearable.agency,premium,,,58,5,10,,,
@@ -3633,7 +3637,7 @@ c925e679-eba0-4871-9490-321244559fca,subjectmatter.agency,premium,,,,4,14,,,
 4f3e00c7-4b95-403a-a4ea-782cc80e0e20,albinic.agency,premium,,,56,1,7,,,
 01f5c86d-14c6-4112-9a76-d822e0bfb956,correlate.agency,available,7.99,39.99,88,8,9,name.com,,
 f1939f43-d57f-40b1-a093-de604c8acda6,completed.agency,available,7.99,39.99,74,7,9,name.com,,
-26fd9f03-8e72-49d4-b55d-e29aee769825,accredited.agency,available,7.99,39.99,68,11,10,name.com,,
+26fd9f03-8e72-49d4-b55d-e29aee769825,accredited.agency,available,7.99,39.99,68,12,10,name.com,,
 43f459b3-7b2d-4f37-9551-147c6874d409,trine.agency,premium,,,50,11,5,,,
 8dfd2094-fb4c-41ed-a068-1c93e4655b04,backswept.agency,premium,,,44,1,9,,,
 7292fd2e-8609-461d-b5c5-c77b5cfbc494,achenial.agency,premium,,,46,1,8,,,
@@ -3642,7 +3646,7 @@ d1cab277-ea6c-4d95-aaba-d480064ef862,anytime.agency,resell,,,100,26,7,Dynadot In
 ac2787d5-5ed3-4131-80a3-e75240248573,profession.agency,premium,,,70,8,10,,,
 7d176b0c-f435-4b02-bcf6-861a324aa2da,aquatic.agency,premium,,,76,13,7,,,
 85ba2de2-05ea-4768-afe7-effc162e961f,aneurismal.agency,premium,,,50,6,10,,,
-3181af6c-d160-4417-8926-11f32b8513f0,teenager.agency,available,7.99,39.99,66,8,8,name.com,,
+3181af6c-d160-4417-8926-11f32b8513f0,teenager.agency,available,7.99,39.99,66,7,8,name.com,,
 32a88b6c-7017-4d63-a658-a2e093dcaa36,xlii.agency,premium,,,56,5,4,,,
 7c872082-d08f-473d-93ba-eb4e0e08dc3f,allnighter.agency,premium,,,68,3,11,,,
 accd7ba0-c450-434c-8f70-c082370b94c8,pestering.agency,premium,,,41,1,9,,,
@@ -3698,7 +3702,7 @@ d1663668-f5ef-4bdf-a4a0-3462cf0689ff,simply.agency,resell,,,68,42,6,"Sav.com, LL
 f6e14fcf-61eb-4e08-8c65-8ac6a46a556a,archaistic.agency,premium,,,64,1,10,,,
 777c9b5c-6806-4b40-946a-b5cac3db1b22,fruitvegetable.agency,premium,,,76,1,15,,,
 4d05d2b5-dc60-4fd8-a2ab-f8867a9b04a0,clothingbin.agency,premium,,,64,1,12,,,
-f904cb98-d1f3-4db2-a5a0-e82521449614,blonde.agency,resell,,,110,15,6,"Sav.com, LLC - 44",03/10/2025 15:15,03/10/2026 15:15
+f904cb98-d1f3-4db2-a5a0-e82521449614,blonde.agency,resell,,,110,16,6,"Sav.com, LLC - 44",03/10/2025 15:15,03/10/2026 15:15
 e34fda27-8add-43fd-8f14-ca8856441595,identity.agency,premium,,,80,28,8,,,
 7b5136ce-edcc-432e-9f93-168c3dbf8f56,callcenter.agency,premium,,,66,17,11,,,
 710fe156-514a-4968-8f2a-a8e6c44d96ce,status.agency,resell,,,76,41,6,Unstoppable Domains Inc,08/12/2023 15:15,08/12/2026 15:15
@@ -3724,8 +3728,8 @@ ce626b2e-647e-4300-90a4-d831a0c52946,midJanuary.agency,premium,,,98,1,11,,,
 cdd37765-3c80-493a-84b3-8544820c5407,commix.agency,premium,,,64,4,6,,,
 d9641eaf-2c55-42bb-8b38-37169f74c6a8,spurious.agency,premium,,,52,3,8,,,
 6bc64945-f4e5-4147-b8a4-018f74d7c11b,lxxxv.agency,premium,,,52,2,5,,,
-3e3e7c0f-9e6a-42a3-a10a-0954b43662d5,marginal.agency,premium,,,74,10,8,,,
-ef53cd65-a6f6-4954-8683-6367448b1fa3,behind.agency,premium,,,102,12,6,,,
+3e3e7c0f-9e6a-42a3-a10a-0954b43662d5,marginal.agency,premium,,,74,9,8,,,
+ef53cd65-a6f6-4954-8683-6367448b1fa3,behind.agency,premium,,,102,13,6,,,
 ef1c64ee-03ae-400b-be1f-88581cc0361c,onequarter.agency,premium,,,,2,11,,,
 9d893f56-ad04-4e1f-8413-281f66e84013,winover.agency,premium,,,76,2,8,,,
 1fa00cac-8df1-48f9-afba-c38b06663378,anecdotic.agency,premium,,,50,1,9,,,
@@ -3969,7 +3973,7 @@ ec18f949-b5df-43bd-a86f-106be60d8078,sapphire.agency,premium,,,92,98,8,,,
 0ae2e98c-e0de-4357-99a6-9a4799ba1d19,toothcare.agency,premium,,,,2,9,,,
 a81d0621-0d38-4d23-b5dd-7a1d481ef36a,capital.agency,resell,,,92,39,7,Porkbun LLC,27/02/2022 13:15,27/02/2027 13:15
 1b252e57-ddc9-4d04-a1f2-d40f84781cd3,whether.agency,premium,,,80,7,7,,,
-9956e8f4-5387-4a45-b496-f34e3518b79b,favored.agency,premium,,,76,6,7,,,
+9956e8f4-5387-4a45-b496-f34e3518b79b,favored.agency,premium,,,76,7,7,,,
 69acee68-4056-4097-b217-7e44534a3dd0,intheraw.agency,premium,,,40,2,10,,,
 b317f69e-819c-414f-a6ae-4989857f37c7,foul.agency,premium,,,96,6,4,,,
 e94bf9d1-2dd2-47ba-aab1-aec67f38e5e6,whoareyou.agency,premium,,,,9,11,,,
@@ -4031,7 +4035,7 @@ da63afeb-951f-424b-8daf-c7929ebc4be1,racing.agency,resell,,,78,25,6,"Sav.com, LL
 8072df0e-11eb-41b5-b557-4c24345fb617,riskcapital.agency,premium,,,,2,12,,,
 07bf863f-ba1c-4686-8fc5-29c33ceb182c,arching.agency,premium,,,68,2,7,,,
 38e54daa-4543-4d67-a6d7-1af1acc6b669,prevent.agency,premium,,,78,12,7,,,
-a57b25e2-2eb2-4aba-81e5-4f90ebaeaf02,bored.agency,resell,,,68,25,5,"Sav.com, LLC",28/05/2025 20:46,28/05/2026 20:46
+a57b25e2-2eb2-4aba-81e5-4f90ebaeaf02,bored.agency,resell,,,68,24,5,"Sav.com, LLC",28/05/2025 20:46,28/05/2026 20:46
 10bbffa8-3dcd-4de0-bcea-1a636a9024ea,playitsafe.agency,premium,,,,4,12,,,
 17c517dc-4938-42fb-aa3e-7f62c62d55f8,sweptback.agency,premium,,,44,1,9,,,
 27f18f00-69ee-4877-9325-38f1872c2edb,landscape.agency,resell,,,92,24,9,"Sav.com, LLC",21/09/2019 20:47,21/09/2026 20:47
@@ -4117,7 +4121,7 @@ d416f225-ea7e-48dc-b5a0-169c4661dacc,frustrate.agency,available,7.99,39.99,74,3,
 f483dc35-9cd1-4e0d-9384-b192746c6d3f,cooldown.agency,available,7.99,39.99,70,10,9,name.com,,
 88e2102e-7ae8-4c3a-9d0c-181980d32f71,spontaneity.agency,premium,,,,3,11,,,
 17a9f609-c092-4891-873a-8716abff4ad3,arthurian.agency,premium,,,54,3,9,,,
-412b7861-d952-462d-ba5b-a7dc6aff564b,ancient.agency,premium,,,92,21,7,,,
+412b7861-d952-462d-ba5b-a7dc6aff564b,ancient.agency,premium,,,92,22,7,,,
 0601fd92-60d9-4f6d-ae86-7fdf2c981090,exhale.agency,resell,,,94,12,6,"Sav.com, LLC",08/07/2025 20:13,08/07/2026 20:13
 88a6bcab-3053-4b4e-ae4c-c429c888f6c8,antecedent.agency,premium,,,78,4,10,,,
 fa23372e-3c51-4173-b014-7c3bc3b4536d,acapnial.agency,premium,,,46,1,8,,,
@@ -4236,7 +4240,7 @@ f4b5e0fb-d1d9-47f7-af05-d2c38d0df4bc,befouled.agency,premium,,,34,1,8,,,
 93536192-9d2b-43b3-99c7-73ce9e66a02a,those.agency,premium,,,58,9,5,,,
 bca03418-0a7f-4ad7-9e40-c7b540c5b590,primarily.agency,premium,,,67,5,9,,,
 92d8e572-9853-4cb6-9a37-041c48b3ada4,dishup.agency,premium,,,78,4,7,,,
-66b974cc-efb8-4772-99ed-cbc484ac652a,clean.agency,premium,,,130,35,5,,,
+66b974cc-efb8-4772-99ed-cbc484ac652a,clean.agency,premium,,,130,38,5,,,
 d37c1bd2-ca41-497d-8946-3deb21f4c2f4,shining.agency,resell,,,88,14,7,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,10/12/2025 15:16,10/12/2026 15:16
 9bb7f75c-74b6-42fe-ae45-223b5da191f1,xlvii.agency,premium,,,56,2,5,,,
 f0fddf83-4c01-4a3a-8701-936b40741923,puzzled.agency,premium,,,64,7,7,,,
@@ -4330,7 +4334,7 @@ aeec857c-612b-4b46-8386-19338638dd98,postaladdress.agency,premium,,,66,2,14,,,
 9817c5d7-21c1-4ff5-a3ee-255e5bed9f1d,measuring.agency,premium,,,67,5,9,,,
 0120dacf-6fe5-4d01-b1b4-a1b2811cd57a,taipei.agency,premium,,,70,16,6,,,
 ca333ee8-cc1f-4b8e-85a3-564cd3d84e97,irritate.agency,premium,,,60,2,8,,,
-708cdcc2-5c5c-4926-a206-224e5cdd334d,authorized.agency,premium,,,70,9,10,,,
+708cdcc2-5c5c-4926-a206-224e5cdd334d,authorized.agency,premium,,,70,10,10,,,
 3a988b84-fabb-4457-9c85-20d9dc1231cf,rile.agency,premium,,,64,6,4,,,
 caaad9da-99ea-41e9-a595-3f714ae1da0b,barmy.agency,premium,,,50,3,5,,,
 9ad73372-6136-4962-9ae3-2abbb0739db9,accepting.agency,available,7.99,39.99,74,5,9,name.com,,
@@ -4407,7 +4411,7 @@ e61d7439-f963-48c1-8cd3-a72412a0056a,IhopeImaybeshot.agency,premium,,,48,1,20,,,
 a9300fac-c80e-4a76-82bc-bf49d16015d8,arcuate.agency,premium,,,50,2,7,,,
 d74b2e93-8313-4997-bf6d-c7b461ff9be3,jollygoodshow.agency,premium,,,80,2,15,,,
 a775108a-0fd6-4f7d-bb04-c707c46214be,shall.agency,premium,,,,7,5,,,
-11c2b4bd-7323-4815-adea-a0e9a8c50b08,teen.agency,resell,,,104,20,4,Porkbun LLC,07/09/2024 17:00,07/09/2026 17:00
+11c2b4bd-7323-4815-adea-a0e9a8c50b08,teen.agency,resell,,,104,19,4,Porkbun LLC,07/09/2024 17:00,07/09/2026 17:00
 4c2648af-ae7e-4c00-b3cf-b0483ab9c567,cypher.agency,resell,,,58,28,6,"Sav.com, LLC",18/08/2023 17:02,18/08/2026 17:02
 d777048c-3146-41da-bf84-a629c03ce28a,balding.agency,premium,,,38,3,7,,,
 db7a2171-1d59-468a-bdf8-a8b8421096f3,dauntless.agency,resell,,,66,98,9,"GoDaddy.com, LLC",05/06/2024 17:00,05/06/2026 17:00
@@ -4432,14 +4436,14 @@ a4aee0f3-e25f-4fa3-b2b8-ad18c5203846,foodcourt.agency,premium,,,76,9,10,,,
 861c413e-b8cf-4760-9102-0422ba3083ee,accessible.agency,resell,,,78,22,10,Dynadot Inc,17/01/2026 17:00,17/01/2027 17:00
 4cafa8b2-536c-4056-a16f-5a5818fe8231,trimdown.agency,premium,,,69,1,9,,,
 f6c2a989-b56e-4ead-91ed-d7382705cd30,artgallery.agency,resell,,,76,11,11,"Sav.com, LLC - 34",22/11/2025 15:15,22/11/2026 15:15
-56c86be7-779c-436a-b7af-b85411df26dd,boring.agency,resell,,,62,35,6,"Global Domains International, Inc. DBA DomainCostClub.com",26/12/2025 15:15,26/12/2026 15:15
+56c86be7-779c-436a-b7af-b85411df26dd,boring.agency,resell,,,62,34,6,"Global Domains International, Inc. DBA DomainCostClub.com",26/12/2025 15:15,26/12/2026 15:15
 cc9227fa-16ca-4dea-a095-f8108ece2ba9,aweary.agency,premium,,,56,1,6,,,
 f46f539d-3d39-439b-84d4-55fb2548469b,gobythenameof.agency,premium,,,68,1,17,,,
 96ca7964-825d-4bef-97b7-122670449a53,ascosporic.agency,premium,,,50,1,10,,,
 9da7e6e6-df00-48b4-b2a3-90e17eb20083,stagingarea.agency,premium,,,64,3,12,,,
 df0bacd5-4a53-4bd3-be42-474a807a18db,shelter.agency,resell,,,94,25,7,"Sav.com, LLC - 10",02/08/2025 15:15,02/08/2026 15:15
 40c338f1-a6d5-4335-b2af-2519fa5fc555,organizations.agency,premium,,,,5,13,,,
-aba965ab-280f-4d27-b0a0-0809b0cfb9f0,apart.agency,resell,,,78,16,5,"Sav.com, LLC",12/07/2025 19:20,12/07/2026 19:20
+aba965ab-280f-4d27-b0a0-0809b0cfb9f0,apart.agency,resell,,,78,17,5,"Sav.com, LLC",12/07/2025 19:20,12/07/2026 19:20
 b2b3c9bb-aba1-4b4a-bf49-b579c47a7788,cheesy.agency,premium,,,60,11,6,,,
 79235854-0908-4e77-a02b-e3087d1dc983,stately.agency,premium,,,72,6,7,,,
 a0727789-82e0-4bbb-bace-64d98427fbb2,birthcertificate.agency,premium,,,66,5,17,,,
@@ -4516,7 +4520,7 @@ d8854473-7764-4fc0-a3a5-b715bfa05eb9,batwing.agency,premium,,,50,2,7,,,
 9b2f8ce4-154e-4b0a-a599-f4050169faeb,incidental.agency,premium,,,76,4,10,,,
 4748774f-9ee1-44e3-92cc-d43533e2f956,assorted.agency,premium,,,44,5,8,,,
 f1d9a3d8-7441-4cce-a18a-ec2853e3eb92,nationaldebt.agency,premium,,,,3,13,,,
-ba791dc1-d3b4-4e19-ad9c-1746128b6817,subsidiary.agency,premium,,,90,3,10,,,
+ba791dc1-d3b4-4e19-ad9c-1746128b6817,subsidiary.agency,premium,,,90,4,10,,,
 978f477a-4cad-440e-be2b-39d63fac20b5,list.agency,resell,,,70,36,4,Unstoppable Domains Inc,17/12/2019 23:18,17/12/2026 23:18
 c17ae478-f1da-447f-ab53-f91d628d819e,araneidan.agency,premium,,,50,1,9,,,
 2a114b31-bbce-4d48-8c9e-de695004bfb9,lowkeyed.agency,premium,,,58,1,9,,,
@@ -4534,7 +4538,7 @@ d9868d91-3095-4c95-bd4c-c5cda67c8b64,mawkish.agency,premium,,,48,1,7,,,
 36ba1ccb-d0ff-439f-98a9-43158360b899,gooff.agency,premium,,,68,2,6,,,
 51c3d353-cd7e-4f02-a103-2531817bfcb3,hindmost.agency,premium,,,42,1,8,,,
 73cff34e-05af-4f0f-b16d-02ae297ee944,febrifuge.agency,premium,,,66,1,9,,,
-41cb33c2-c882-4104-aa5a-189df03079a9,roughly.agency,available,7.99,39.99,62,6,7,name.com,,
+41cb33c2-c882-4104-aa5a-189df03079a9,roughly.agency,available,7.99,39.99,62,5,7,name.com,,
 70aba088-3313-4514-a331-be7de8269d82,Christalive.agency,premium,,,72,3,12,,,
 2fbee3f9-223e-402e-a573-4e6766bb12d3,discord.agency,resell,,,80,46,7,"GoDaddy.com, LLC",21/11/2022 20:57,21/11/2026 20:57
 11096f34-d3ae-480b-bfa7-1c55f31a7c1b,pretence.agency,premium,,,64,1,8,,,
@@ -4573,7 +4577,7 @@ f87457e4-5a44-4200-ad73-b4976fbc7fb3,agrypnotic.agency,premium,,,68,1,10,,,
 715c142c-660b-4851-af07-eff4b074fb02,tornadoshelter.agency,premium,,,62,1,15,,,
 26bd7552-18f9-4b41-9f28-3d53453e5276,loss.agency,premium,,,62,14,4,,,
 a388f699-e031-46e3-ad0e-78ca341879fe,campus.agency,resell,,,99,37,6,"Sav.com, LLC - 28",18/08/2025 15:15,18/08/2026 15:15
-1972a882-aa9f-4471-ac2a-3d047f54ba93,playing.agency,available,7.99,39.99,74,15,7,name.com,,
+1972a882-aa9f-4471-ac2a-3d047f54ba93,playing.agency,available,7.99,39.99,74,13,7,name.com,,
 f85fd215-ea84-469c-a95d-1a147a6825a8,possess.agency,premium,,,78,5,7,,,
 270a6606-bf0b-4d89-935f-f10631a211b2,near.agency,resell,,,66,99,4,Dynadot Inc,11/07/2017 16:47,11/07/2026 16:47
 bb71eeeb-fe93-473c-9b7a-f45e919c40f7,attrited.agency,premium,,,41,1,8,,,
@@ -4663,7 +4667,7 @@ d24c5925-65d8-4b3a-9b1d-3341d2d2a338,saucer.agency,premium,,,96,8,6,,,
 c4aaa8f3-b585-49fc-a426-aba42c12b3b4,allovertheboard.agency,premium,,,46,1,18,,,
 6081dbd7-0c77-4601-9ad7-95949aa04738,astringent.agency,premium,,,64,1,10,,,
 224a2baa-6b32-40df-81b9-41d1f5ee1c8e,tothinkthat.agency,premium,,,,1,13,,,
-bc27d403-9a5c-4104-8d4f-a3e238e812b3,nuts.agency,resell,,,64,21,4,"GoDaddy.com, LLC",06/04/2016 05:40,06/04/2027 05:40
+bc27d403-9a5c-4104-8d4f-a3e238e812b3,nuts.agency,resell,,,64,22,4,"GoDaddy.com, LLC",06/04/2016 05:40,06/04/2027 05:40
 7d77e243-33c2-4266-9929-c9542e975e9a,pricked.agency,premium,,,,1,7,,,
 30ba75ec-63f3-4a1e-9db4-a3db2da77dc4,loopy.agency,premium,,,52,13,5,,,
 f24fa617-2ae3-4725-b2cd-d60e99b3b493,burned.agency,premium,,,60,7,6,,,
@@ -4905,7 +4909,7 @@ f916c951-bdfe-4643-88c7-9e08cba9501b,wrongcrowd.agency,premium,,,58,2,11,,,
 27d9cd7d-0554-46d3-a81f-cf4fd2775128,indrawing.agency,premium,,,,1,10,,,
 bdf1f857-7e36-4374-bb03-45809181a414,stroke.agency,premium,,,92,14,6,,,
 f76c5483-a2a1-4acc-8313-6a49d0492c66,excelat.agency,premium,,,82,2,8,,,
-74758838-fa41-49b6-b080-a0554f7ca0e0,prenuptial.agency,premium,,,88,3,10,,,
+74758838-fa41-49b6-b080-a0554f7ca0e0,prenuptial.agency,premium,,,88,2,10,,,
 79356569-894f-44bb-b19b-89369fc02ccd,normal.agency,premium,,,90,17,6,,,
 575187c8-c1cc-4ff9-9a42-991d3eab2b0f,regulate.agency,premium,,,68,8,8,,,
 52949141-8a91-4602-bd08-812561e9f473,folicacid.agency,premium,,,76,2,10,,,
@@ -4947,10 +4951,10 @@ fbc20fc6-1bae-41bb-8dc0-06bc2c8c55d3,neighborhood.agency,resell,,,,22,12,"GoDadd
 5f4147e4-c881-46af-a056-e97b96138b32,avifaunal.agency,premium,,,52,1,9,,,
 fe2ab0e9-f854-488d-8a78-e7f892053f89,publicservant.agency,premium,,,72,2,14,,,
 648a5800-5680-4f72-9c2e-041411bd109e,manyatimeandoft.agency,premium,,,58,1,19,,,
-6725b1a7-8bb6-4364-88a1-72ee24f8f5a5,ago.agency,resell,,,66,18,3,"Sav.com, LLC - 34",25/11/2025 15:15,25/11/2026 15:15
+6725b1a7-8bb6-4364-88a1-72ee24f8f5a5,ago.agency,resell,,,66,19,3,"Sav.com, LLC - 34",25/11/2025 15:15,25/11/2026 15:15
 09ef1ab9-b63b-4b6f-9e40-bd08bf52c105,australian.agency,resell,,,92,22,10,"Sav.com, LLC - 36",29/07/2025 15:15,29/07/2026 15:15
 5e227e10-c64a-4d6f-81e2-c8d86ffa8031,soundbar.agency,premium,,,74,5,8,,,
-bce93d83-274f-497b-8c7e-8df90dfdfc3c,ethereal.agency,resell,,,88,32,8,"Sav.com, LLC - 19",20/11/2024 17:00,20/11/2026 17:00
+bce93d83-274f-497b-8c7e-8df90dfdfc3c,ethereal.agency,resell,,,88,31,8,"Sav.com, LLC - 19",20/11/2024 17:00,20/11/2026 17:00
 959ae1de-efa0-4474-8f7e-e2cfd644d795,insist.agency,premium,,,76,7,6,,,
 59c7b7f2-0926-44b4-9a21-5b170a70d3e8,expecting.agency,premium,,,86,5,9,,,
 660b6434-7fe5-4827-a847-8877e3cea756,sheorhe.agency,premium,,,,1,9,,,
@@ -5233,7 +5237,7 @@ b1f9600b-2cbd-4b55-9bba-a42b9753bdb7,despite.agency,premium,,,90,6,7,,,
 523aec08-cf87-4026-9b45-e61de04a64c9,adobe.agency,premium,,,72,15,5,,,
 55f047d8-4c3a-4071-9156-1a212b32bdd3,trite.agency,premium,,,66,4,5,,,
 3db3ed21-17c0-4394-8469-a7e4db8f149d,abhorrent.agency,available,7.99,39.99,54,2,9,name.com,,
-dd8f7b24-7274-45f7-ba57-e178f8ada005,chief.agency,resell,,,120,31,5,"Sav.com, LLC - 29",19/09/2025 15:15,19/09/2026 15:15
+dd8f7b24-7274-45f7-ba57-e178f8ada005,chief.agency,resell,,,120,30,5,"Sav.com, LLC - 29",19/09/2025 15:15,19/09/2026 15:15
 fe82b771-e2cb-4cea-8cdc-9a4d94eed137,groundless.agency,premium,,,37,3,10,,,
 b4437e99-d26c-4082-b6e3-6ef383d26f56,discard.agency,premium,,,88,7,7,,,
 af91e585-f590-4ff9-a9f6-25f8894b05f7,converse.agency,premium,,,64,74,8,,,
@@ -5361,7 +5365,7 @@ b21b5ee0-c4aa-4e3e-a7b0-d259383fa02f,pissabout.agency,premium,,,,1,10,,,
 f846f2b5-f956-4eca-bc5b-baebc9e5a7e2,solo.agency,premium,,,116,14,4,,,
 1ec7cdfe-5197-4555-a1fc-17fdabba4049,unfounded.agency,premium,,,33,4,9,,,
 85713ba6-1d5c-4631-a075-80432a418095,asking.agency,premium,,,86,12,6,,,
-5cb1790b-27d8-4c1a-b9e5-cee45a1cc17b,alpha.agency,resell,,,90,54,5,"GoDaddy.com, LLC",25/12/2018 23:26,25/12/2026 23:26
+5cb1790b-27d8-4c1a-b9e5-cee45a1cc17b,alpha.agency,resell,,,90,53,5,"GoDaddy.com, LLC",25/12/2018 23:26,25/12/2026 23:26
 f93e9bce-b5a2-4bfa-bdff-6cdbb7bff6b3,algolagnic.agency,premium,,,48,1,10,,,
 132cbd31-ae93-4950-a158-d31044d5a108,ofcolor.agency,premium,,,,2,8,,,
 af3eb4f5-812a-4e2c-88d5-af1866af5122,hardly.agency,premium,,,92,6,6,,,
@@ -5730,7 +5734,7 @@ edfc67d3-2f49-41b4-a638-c69d29b410f7,bedraggled.agency,premium,,,42,1,10,,,
 e42b110d-9d2b-496f-a186-c3eb2211f46d,finalwords.agency,premium,,,72,3,11,,,
 8d2f6784-9250-4cd3-bf6f-984364420713,eager.agency,premium,,,70,11,5,,,
 9d2be0ce-84b5-4b5b-b242-3d3d947c5083,lambent.agency,premium,,,64,5,7,,,
-b6cb25f6-5890-4bb9-b760-dcc77e529248,adoring.agency,available,7.99,39.99,90,5,7,name.com,,
+b6cb25f6-5890-4bb9-b760-dcc77e529248,adoring.agency,available,7.99,39.99,90,4,7,name.com,,
 5dc6044a-cd6f-4287-8203-b957cbb971fd,atactic.agency,premium,,,38,2,7,,,
 62123a5d-e9a0-4acd-b814-fadae3158229,towheaded.agency,premium,,,54,1,9,,,
 6ea930db-0c7d-420e-9160-aba356f35da7,blacktea.agency,premium,,,70,5,9,,,
@@ -5835,7 +5839,7 @@ fe3a11c2-b0bb-49e9-aaa1-b4b0e1923769,tel.agency,premium,,,60,17,3,,,
 2f0ad3e1-2ba9-43c9-8e40-aa3caa6b430b,hardworking.agency,premium,,,72,5,11,,,
 ccca68c1-f731-474b-a777-55a27701738a,backstair.agency,premium,,,63,1,9,,,
 a5b0d14f-86c6-46ac-a3ca-f26b070c0e41,blow.agency,resell,,,58,16,4,"Sav.com, LLC",02/06/2025 18:22,02/06/2026 18:22
-4849d057-4fa8-4536-ba17-e96bad7e1a2e,acceptable.agency,available,7.99,39.99,78,8,10,name.com,,
+4849d057-4fa8-4536-ba17-e96bad7e1a2e,acceptable.agency,available,7.99,39.99,78,7,10,name.com,,
 3bf8429e-03fa-4517-af8e-0b5cbe39dd50,dreamup.agency,premium,,,78,7,8,,,
 57cbea85-4e66-4cb8-b6f0-0670d99e65e5,cinema.agency,resell,,,84,31,6,"Sav.com, LLC - 10",07/03/2026 15:15,07/03/2027 15:15
 ae8de655-d34a-4693-8043-e71238b54995,vexation.agency,premium,,,42,3,8,,,
@@ -5855,7 +5859,7 @@ e6e2835c-06a1-4b3f-a3aa-3f53c4c7892a,smileyface.agency,premium,,,78,6,11,,,
 d6a56d7a-dc93-4ac2-ad95-d10d627d0eb5,oppose.agency,premium,,,68,5,6,,,
 4112bcd7-0e1a-49c9-8ba5-50726c23b8e5,ROTFL.agency,premium,,,,3,5,,,
 5d847b3c-2b2a-4da0-bb0c-95c4bb83f710,anniversary.agency,premium,,,74,11,11,,,
-1e6ec530-481a-41b1-8707-30c4d756bb42,awfully.agency,premium,,,62,2,7,,,
+1e6ec530-481a-41b1-8707-30c4d756bb42,awfully.agency,premium,,,62,3,7,,,
 d6026b55-513c-4c80-8c65-8afefb749920,open.agency,resell,,,106,60,4,Dynadot Inc,17/07/2021 18:01,17/07/2026 18:01
 d83e83cf-3b8d-4d37-bcde-1846042ec620,rightatrium.agency,premium,,,,1,12,,,
 d0ff75d2-d1c9-4c00-bdfc-bcced12798a6,accommodate.agency,premium,,,92,6,11,,,
@@ -5912,7 +5916,7 @@ cb7db26a-e45b-4ecb-8994-5124830265bb,inreturn.agency,premium,,,58,2,9,,,
 90be52d5-2869-490e-bd74-9c3abd8ef2fa,hell.agency,resell,,,56,29,4,"Sav.com, LLC - 6",06/11/2025 15:15,06/11/2026 15:15
 1dcbc652-367a-4281-b1ee-ae8a216d843f,balconied.agency,premium,,,45,1,9,,,
 96728b82-ce4f-4920-9932-ba217da83e73,peaking.agency,premium,,,88,3,7,,,
-f3c8cce7-ff90-4ced-93da-8ce651810e3d,licenced.agency,available,7.99,39.99,68,2,8,name.com,,
+f3c8cce7-ff90-4ced-93da-8ce651810e3d,licenced.agency,available,7.99,39.99,68,3,8,name.com,,
 aa3f8194-1b5b-4b35-af82-ab427b12418a,add.agency,resell,,,78,35,3,"GoDaddy.com, LLC",21/05/2019 16:19,21/05/2026 16:19
 30c82c1f-45ce-45cb-9fd3-5184dca08634,springsnow.agency,premium,,,,2,11,,,
 6c63d42b-54d8-4181-8de4-fc4dac94ba92,bankmachine.agency,premium,,,68,1,12,,,
@@ -5963,23 +5967,23 @@ bc2ac6d5-b164-4932-9d85-56595b47aaa5,unadvisable.agency,premium,,,52,1,11,,,
 7537e474-4299-4bd4-9760-ea54d15d8ce7,concentrated.agency,premium,,,62,6,12,,,
 48517c60-e694-4b99-92be-ac2e22de3d9c,amoebic.agency,premium,,,56,2,7,,,
 12340006-e628-4af9-812c-adb4032c23b5,letterofreference.agency,premium,,,79,1,19,,,
-1d570e9a-c43e-4dd8-a313-1482a396c384,tedious.agency,premium,,,60,6,7,,,
+1d570e9a-c43e-4dd8-a313-1482a396c384,tedious.agency,premium,,,60,5,7,,,
 ff5eebc2-ccc4-47ea-afff-52eaba301603,clitlicker.agency,premium,,,62,1,10,,,
 d7a7a005-76df-432a-b011-3ca9b4f0b503,upstage.agency,premium,,,98,7,7,,,
 52a79d0f-9067-4099-bebd-d5fc9552acb4,veal.agency,premium,,,66,6,4,,,
-90f2a1ab-f35e-4620-ac67-3fa4e426a16a,bounce.agency,resell,,,98,26,6,Porkbun LLC,20/06/2020 08:25,20/06/2026 08:25
+90f2a1ab-f35e-4620-ac67-3fa4e426a16a,bounce.agency,resell,,,98,25,6,Porkbun LLC,20/06/2020 08:25,20/06/2026 08:25
 22ea2621-fb53-45cc-8f59-1392a067e709,front.agency,resell,,,118,24,5,"Spaceship, Inc.",27/03/2021 06:12,27/03/2027 06:12
 6ebf768c-d5a7-4483-9bd9-5bacf85c3e55,childpornography.agency,premium,,,52,2,17,,,
 11dee8df-e6f3-4bca-bbd1-4da8ea2d619b,Crayola.agency,premium,,,80,10,7,,,
 ec173299-5c0d-4d7c-97ad-0faf1e77c92a,occur.agency,premium,,,70,9,5,,,
-defaabea-9f98-40af-a897-b68e89d43789,bootleg.agency,premium,,,100,12,7,,,
+defaabea-9f98-40af-a897-b68e89d43789,bootleg.agency,premium,,,100,11,7,,,
 07604032-a1f3-43c2-b3bb-82a4a8fa517c,Westcott.agency,premium,,,,5,8,,,
 6fd1dc93-134f-4816-a870-05eb5fe666b6,justification.agency,premium,,,66,3,13,,,
 205e7b8c-c0f1-42ec-8b65-277a4f306824,abstruse.agency,premium,,,52,3,8,,,
 016d3243-aba5-40bd-a9e5-7921bff3759a,xxvi.agency,available,7.99,39.99,66,4,4,name.com,,
 e0a81c85-c98e-4f85-b4af-324eae4aeb78,allocate.agency,premium,,,72,13,8,,,
 1533eb36-c575-450e-8ac4-afb08d6bed04,screwabout.agency,premium,,,,1,11,,,
-7c5265c4-71ea-4955-b25f-4bc4ae874e66,teasing.agency,premium,,,72,5,7,,,
+7c5265c4-71ea-4955-b25f-4bc4ae874e66,teasing.agency,premium,,,72,4,7,,,
 60edfb81-6007-47dd-8a14-dfa64054ab56,pizzashop.agency,premium,,,80,4,10,,,
 eeee3350-ff2c-4629-9513-46f421f12163,recently.agency,premium,,,62,7,8,,,
 d3269676-33a7-4a4e-b154-233335e6b0f4,economically.agency,premium,,,54,2,12,,,
@@ -6050,7 +6054,7 @@ d5f12309-7c2f-4da6-aef0-49e8eef6aa1a,hairy.agency,premium,,,68,11,5,,,
 3789a958-6ece-4a70-8b04-436eef2e8174,duty.agency,premium,,,62,13,4,,,
 3c1b76fd-ebac-408b-a62a-589ab8717806,amort.agency,premium,,,48,4,5,,,
 12ce6d51-f10f-44f5-a752-07ed8c718e0e,thereis.agency,premium,,,,3,8,,,
-470e75cf-8baa-4f82-b447-25b4a01e7c1f,awakened.agency,premium,,,66,15,8,,,
+470e75cf-8baa-4f82-b447-25b4a01e7c1f,awakened.agency,premium,,,66,14,8,,,
 ba6daa15-017f-41fa-803d-ccd955acb56e,energy.agency,premium,,,82,35,6,,,
 5b344df9-0b47-4400-bd3d-110cb2a0dc4e,atall.agency,premium,,,66,4,6,,,
 ae1bbc4b-8ce9-4c4f-96bd-ef96f7220a6e,riseabove.agency,premium,,,,11,10,,,
@@ -6131,6 +6135,7 @@ d6557310-3054-4bac-94a1-28fc5ac1104f,dignitary.agency,premium,,,90,2,9,,,
 970647f5-3b9c-44a6-a70b-e949056b023a,rag.agency,resell,,,54,23,3,"Sav.com, LLC - 38",03/02/2026 15:15,03/02/2027 15:15
 7cec6c85-bd86-47d5-b063-74d7aeca5751,playoff.agency,premium,,,72,7,8,,,
 158988e7-78fc-48c4-bd00-0e0a04673ecb,artimitateslife.agency,premium,,,55,1,17,,,
+bd901103-eb5c-4477-967c-7ba1d1824d52,thou.agency,premium,,,60,8,4,,,
 f0495f4d-2e19-4cb6-b94b-9bd1a4d2a348,onbase.agency,premium,,,,16,7,,,
 564e1bfb-a459-4989-aa59-f5319545fd7d,azotic.agency,premium,,,56,2,6,,,
 c6d4bd78-8823-40e8-8e30-065113c1e2c1,skirt.agency,premium,,,90,8,5,,,
@@ -6376,7 +6381,7 @@ dd28d37c-73e3-40a9-bc28-86f94baafa26,myspace.agency,premium,,,80,13,7,,,
 b2c672a4-cd19-42af-a9d7-17de7a9b4516,enlivening.agency,premium,,,48,2,10,,,
 c2c0a0d1-8422-4a11-8832-0d683680e7ef,aleuronic.agency,premium,,,52,1,9,,,
 608419b8-b14e-4eb9-9c0a-6f486fedcbd3,neverending.agency,premium,,,,8,12,,,
-0651b44d-dc45-4b4a-8de7-cbca98b414e9,discovered.agency,resell,,,68,10,10,"GoDaddy.com, LLC",25/06/2024 13:01,25/06/2026 13:01
+0651b44d-dc45-4b4a-8de7-cbca98b414e9,discovered.agency,resell,,,68,11,10,"GoDaddy.com, LLC",25/06/2024 13:01,25/06/2026 13:01
 6a3c5639-ddde-4907-84bd-ce6a8c74af41,conventionally.agency,premium,,,54,1,14,,,
 2f2d8563-d794-4268-b295-9ad2dcf80313,letgo.agency,premium,,,72,11,6,,,
 be9f30dd-8cce-4fc6-8ec4-3a2022f73430,mail.agency,resell,,,76,59,4,"Sav.com, LLC - 1",29/11/2025 15:16,29/11/2026 15:16
@@ -6436,7 +6441,7 @@ a5e3a495-acee-49c2-82e9-0eaa3a235a1b,panoplied.agency,premium,,,50,1,9,,,
 3caa2b61-af18-4627-8974-bc87949ede09,moved.agency,premium,,,72,8,5,,,
 c4b6b44d-26ad-41e9-8985-8624fefbd8b5,setfree.agency,premium,,,,6,8,,,
 09bc57ed-575b-429a-95dc-657a2b89d82b,menu.agency,resell,,,70,34,4,Netregistry Wholesale Pty Ltd,09/08/2024 17:00,09/08/2026 17:00
-2457c11e-77bb-44dd-9119-58b6d7229cd6,false.agency,premium,,,64,16,5,,,
+2457c11e-77bb-44dd-9119-58b6d7229cd6,false.agency,premium,,,64,15,5,,,
 020d5f43-b05e-4e43-9e85-9a5abf2802c2,Seals.agency,premium,,,66,12,5,,,
 05ab2452-5ae4-4ab8-adf4-b6837b807119,releaseversion.agency,premium,,,74,1,15,,,
 42d19637-5541-4568-b01d-0e3619badad3,autogenous.agency,premium,,,54,1,10,,,
@@ -6490,7 +6495,7 @@ f8797e48-2d74-44d7-afe0-c4b651443c51,difficulty.agency,premium,,,68,4,10,,,
 cfdbe13f-604b-4941-816a-de16983d1814,acinose.agency,premium,,,50,1,7,,,
 0867ac80-cfbb-4b08-8f15-c7bd52e598df,taxassessment.agency,premium,,,62,2,14,,,
 75950c40-5e71-453d-899f-fcc0cb2148c8,kitschy.agency,premium,,,52,4,7,,,
-723b9322-b3de-4b7f-9ba2-e92109fb9034,best.agency,resell,,,82,53,4,Porkbun LLC,18/07/2021 21:21,18/07/2026 21:21
+723b9322-b3de-4b7f-9ba2-e92109fb9034,best.agency,resell,,,82,52,4,Porkbun LLC,18/07/2021 21:21,18/07/2026 21:21
 0e1c9333-71ca-4ac9-ab59-f39c9aa9e36a,purgative.agency,premium,,,54,1,9,,,
 85a6faff-5902-4b0a-a5a3-6c08a1955eb3,capitalise.agency,premium,,,72,4,10,,,
 9f4a79fc-196f-4364-be0e-ed195d1853ef,thirdclass.agency,premium,,,,1,11,,,
@@ -6546,7 +6551,7 @@ cf7de08c-c5b3-40d8-9db5-461fd14852b6,Shrek.agency,premium,,,84,7,5,,,
 22ed6560-a615-43a2-bee4-355d727e635b,munich.agency,resell,,,66,25,6,"Sav.com, LLC - 16",21/04/2025 15:15,21/04/2026 15:15
 acdf5c94-946f-4d3d-8d6c-cb7ded9956ac,showed.agency,premium,,,,3,6,,,
 5c832079-45a7-44cb-9f0b-2d8f4b8b7ef3,acuminate.agency,premium,,,70,1,9,,,
-5cb6bf85-ec12-4221-b642-347c2faac06c,whiz.agency,resell,,,100,15,4,"Sav.com, LLC - 21",04/11/2025 15:15,04/11/2026 15:15
+5cb6bf85-ec12-4221-b642-347c2faac06c,whiz.agency,resell,,,100,14,4,"Sav.com, LLC - 21",04/11/2025 15:15,04/11/2026 15:15
 f9519442-7dfd-4a63-858e-c4ae420b5c0a,seagull.agency,resell,,,74,14,7,"NameCheap, Inc.",18/09/2024 17:00,18/09/2026 17:00
 15c8baba-0dca-4877-826a-66ffdcce3067,exhibition.agency,resell,,,71,17,10,"Sav.com, LLC - 5",03/10/2025 15:15,03/10/2026 15:15
 ae266127-9055-4a24-a16b-33f45ca9a4b0,accoutred.agency,premium,,,58,1,9,,,
@@ -6712,7 +6717,7 @@ e324cede-1f60-488c-8b04-121a00849428,ganja.agency,resell,,,63,18,5,"Sav.com, LLC
 53a433b0-98ea-4beb-8db6-1403da039b72,cameroon.agency,premium,,,81,3,8,,,
 30320beb-571e-46a2-93df-8bc64b299cfa,bravo.agency,premium,,,66,14,5,,,
 85c09dfb-2e40-4ada-b938-6f434e12baf3,volcano.agency,resell,,,58,24,7,"Sav.com, LLC - 28",16/08/2025 15:15,16/08/2026 15:15
-c6ad5596-4caa-4cb8-ac40-9126ccbe14c4,bouncy.agency,premium,,,72,8,6,,,
+c6ad5596-4caa-4cb8-ac40-9126ccbe14c4,bouncy.agency,premium,,,72,7,6,,,
 6881ca39-f52a-4789-81aa-895200e7f6f5,confess.agency,premium,,,76,10,7,,,
 81db35dd-1c18-46d1-83eb-a6de143a60a2,endemic.agency,premium,,,76,7,7,,,
 b02a4117-0499-4b15-87fc-8d2a0e7bff19,andantino.agency,premium,,,60,3,9,,,
@@ -6810,6 +6815,7 @@ e28f257e-4aa7-4fc6-8cc7-ab0c255afe4b,articled.agency,premium,,,43,2,8,,,
 757056e6-3ad0-4044-a320-0eea9e93ffa2,bringback.agency,premium,,,66,4,10,,,
 440e6cae-28a5-410a-823a-e8c232c1951c,NewWorld.agency,resell,,,,19,9,"Sav.com, LLC - 31",18/11/2024 17:00,18/11/2026 17:00
 94e3b5d5-8b93-4535-b59f-72cdea20f62c,acoustical.agency,available,3.99,35.99,54,5,10,name.com,,
+18638800-86c1-478d-bbde-1c095ba9ac43,fourteen.agency,premium,,,84,10,8,,,
 9628e593-fcde-4f6a-8b71-43f81e37d535,flew.agency,premium,,,92,6,4,,,
 6b0ac2e1-d6ae-4a91-a51c-bfef4edac8bf,seafood.agency,resell,,,86,15,7,"GoDaddy.com, LLC",18/06/2022 06:54,18/06/2026 06:54
 50ec789c-01c2-4e3e-bc57-a25b2704656e,eightyone.agency,premium,,,52,4,10,,,
@@ -6961,11 +6967,11 @@ c725c8aa-1db9-4cfd-80aa-2f4628eb11e1,khakis.agency,premium,,,74,3,6,,,
 472ad2a9-8adc-42f0-9daf-734e7202e213,speedup.agency,premium,,,,9,8,,,
 d7ba289a-dacf-4ace-a500-1cf9f6a80e84,Nicki.agency,premium,,,66,8,5,,,
 924acc5e-21b8-4277-9f94-09c0fa826870,sip.agency,resell,,,62,30,3,"Sav.com, LLC - 16",22/07/2025 15:16,22/07/2026 15:16
-b071d4ba-1d80-4a68-8342-f03ce55e27a2,augratin.agency,premium,,,70,2,9,,,
+b071d4ba-1d80-4a68-8342-f03ce55e27a2,augratin.agency,premium,,,70,1,9,,,
 f14be68f-f1f7-4ded-b5d6-c701bda08822,stating.agency,premium,,,72,3,7,,,
 72cb7f91-5631-4ca5-8a27-deb372d4d741,antitumour.agency,premium,,,70,1,10,,,
 d704f255-e547-4fe8-91dd-67e9a3c64bf8,nectarous.agency,premium,,,62,2,9,,,
-77265176-438a-4efe-8115-7c72aa8e7e76,amenable.agency,premium,,,68,3,8,,,
+77265176-438a-4efe-8115-7c72aa8e7e76,amenable.agency,premium,,,68,2,8,,,
 2e75bbb0-347d-441a-890b-f0330b8b3f42,stopping.agency,premium,,,66,4,8,,,
 0a94b9a6-6a18-4840-8fe5-678074537afa,flowerbox.agency,premium,,,76,6,10,,,
 7b83ed68-7ed4-41ef-9e9a-462026c5b743,indespiteof.agency,premium,,,45,1,13,,,
@@ -6989,7 +6995,7 @@ af64f60b-99e7-4e97-90c0-f951985e23b6,champagne.agency,resell,,,106,26,9,"Sav.com
 1888cbb0-1cf6-41d8-ae46-ef44863e9681,injure.agency,premium,,,68,5,6,,,
 afb1d351-d27e-43af-9d40-bbaba316d6cf,planted.agency,available,7.99,39.99,68,10,7,name.com,,
 d70e1d09-dae4-4401-8f10-9ba50d6c84f0,intwoshakes.agency,premium,,,46,1,13,,,
-c142eb67-52dd-4c19-a81e-15d96db1c06f,aerobic.agency,available,7.99,39.99,74,7,7,name.com,,
+c142eb67-52dd-4c19-a81e-15d96db1c06f,aerobic.agency,available,7.99,39.99,74,6,7,name.com,,
 4646ee0e-1a62-4b93-b92b-3d0ecf6529b6,chemicalweapon.agency,premium,,,52,1,15,,,
 97f04431-e927-415c-a26d-12b9d2427fa5,stick.agency,resell,,,80,18,5,"Sav.com, LLC - 23",13/12/2025 15:16,13/12/2026 15:16
 d4df9cc2-7cb3-4da9-bcde-8159dcf683ac,rosegold.agency,premium,,,,8,9,,,
@@ -7009,7 +7015,7 @@ cbb5fb2a-37af-4563-aabf-3f5c25858b9c,gettothepoint.agency,premium,,,75,3,16,,,
 aaecac09-ad1a-489f-b973-e87f894132e6,Iaskyou.agency,premium,,,54,1,9,,,
 5eeb380b-df70-4b69-9082-1242889a9ce9,spiceup.agency,premium,,,72,6,8,,,
 e59d610c-054e-421f-9570-2e30b1a5c275,visitor.agency,resell,,,72,16,7,"Sav.com, LLC - 37",03/11/2025 15:16,03/11/2026 15:16
-1dc0243a-5fba-496d-a15f-c18196c4a151,skilful.agency,available,7.99,39.99,74,4,7,name.com,,
+1dc0243a-5fba-496d-a15f-c18196c4a151,skilful.agency,available,7.99,39.99,74,3,7,name.com,,
 1a5bca23-eab4-400d-9035-186df8a96d1c,antennal.agency,premium,,,56,1,8,,,
 302042e7-fab8-4daa-b2c6-cf9b430576d1,database.agency,resell,,,99,31,8,"Sav.com, LLC - 49",02/06/2025 15:15,02/06/2026 15:15
 362ad25c-661f-4d41-862b-a5b16eb5f56f,topnotch.agency,resell,,,54,18,8,"NameSilo, LLC",29/06/2021 14:33,29/06/2026 14:33
