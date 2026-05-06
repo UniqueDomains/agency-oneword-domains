@@ -819,7 +819,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5295ea01-5f48-4891-a509-37a1b1cbbd6f,creates.agency,resell,,,60,13,7,"Sav.com, LLC",19/02/2026 20:17,19/02/2027 20:17
 52da9ef5-3087-4f8a-ac7e-e8f497065885,keepfit.agency,available,7.99,,86,9,8,name.com,,
 52e8696f-da58-4db3-a3cd-df0a4009f569,toweather.agency,available,7.99,,48,1,10,name.com,,
-52fa62a7-8472-4677-b9a0-e79e188ebf57,mouth.agency,resell,,,78,13,5,"Sav.com, LLC",20/02/2026 19:26,20/02/2027 19:26
+52fa62a7-8472-4677-b9a0-e79e188ebf57,mouth.agency,resell,,,78,10,5,"Sav.com, LLC",20/02/2026 19:26,20/02/2027 19:26
 5324cf75-bed2-400a-ace3-c7ff80d6e084,usualoffice.agency,available,7.99,,57,0,12,name.com,,
 5328adbf-557a-4b73-a47d-7c4b48595e5d,sides.agency,available,7.99,,54,12,5,name.com,,
 53300633-78c9-415f-9cb5-f29ab081a91f,introductory.agency,available,7.99,,74,2,12,name.com,,
