@@ -714,6 +714,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4821302f-7371-4a3f-98e8-a3817a10fee1,getoneoveron.agency,available,7.99,,64,0,15,name.com,,
 483ca4dd-c974-441d-8a9d-aa82a1436097,locks.agency,available,7.99,,66,14,5,name.com,,
 48585d1f-f8d0-434e-b7f5-526afad50831,DaffyDuck.agency,available,41.98,,86,2,10,namecheap,,
+48617913-5747-4023-8172-37eebd1e403e,coefficient.agency,premium,,,80,13,11,,,
 4867fed4-10cc-4e00-9ce3-003981788b78,floodwaters.agency,available,7.99,,56,2,11,name.com,,
 48a6a051-0115-4400-9ae3-a8c68ceacf45,SuezCanal.agency,available,41.98,,58,3,10,namecheap,,
 48a74e22-698f-41bb-b06c-7db6454c81a6,stirup.agency,available,7.99,,82,3,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6464c993-2c8e-487f-b41c-613afe047903,mosquitoes.agency,available,7.99,,42,4,10,name.com,,
 646b88e3-f1f9-4824-aa9b-297424af0caa,makeoneselfclear.agency,available,7.99,,70,1,18,name.com,,
 647e9b4e-68fc-4492-a982-b8eacb77744d,organisational.agency,available,7.99,,54,1,14,name.com,,
-64a64954-f933-4abb-9558-c598e3f6b48b,gothroughwith.agency,available,7.99,,58,1,15,name.com,,
