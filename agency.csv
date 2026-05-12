@@ -402,7 +402,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2a1bd0b6-455f-4761-9a53-c9ae3a7d7dee,outlets.agency,available,7.99,,56,10,7,name.com,,
 2a236347-cec8-4d34-af74-c55b121bb213,postponement.agency,available,7.99,,57,1,12,name.com,,
 2a2f4308-5678-4d3a-a05a-1ac6d6356c27,gonowherefast.agency,available,7.99,,50,1,15,name.com,,
-2a4f145d-bbe9-45a0-973c-4e6196cee529,xoxoxo.agency,available,7.99,,88,6,6,name.com,,
+2a4f145d-bbe9-45a0-973c-4e6196cee529,xoxoxo.agency,available,7.99,,88,7,6,name.com,,
 2a569f60-ff12-4456-98bc-b066bbb66f69,Christians.agency,available,41.98,,62,15,10,namecheap,,
 2a6815e0-590b-48e3-a382-cdbdbc5c6a95,publictransit.agency,available,7.99,,66,3,14,name.com,,
 2a73cf9a-946c-4e33-89ba-721edbc8753b,knees.agency,available,7.99,,50,5,5,name.com,,
@@ -762,7 +762,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4d9b5dff-115c-466f-9174-ac8ab4801b35,getoutof.agency,available,7.99,,79,2,10,name.com,,
 4d9d83ce-ee30-4ae9-aa68-e20e2f94cc2f,referees.agency,available,7.99,,55,4,8,name.com,,
 4da474ff-423b-44f2-99b4-b1436bfed222,inthedock.agency,available,7.99,,50,1,11,name.com,,
-4dab914d-0f0e-4aed-b036-9a41217b44b4,Yours.agency,resell,,,68,18,5,"Sav.com, LLC - 27",19/03/2026 15:15,19/03/2027 15:15
+4dab914d-0f0e-4aed-b036-9a41217b44b4,Yours.agency,resell,,,68,25,5,"Sav.com, LLC - 27",19/03/2026 15:15,19/03/2027 15:15
 4dafdc6e-b975-4e8a-955b-8578f110086a,counseled.agency,available,7.99,,59,1,9,name.com,,
 4ddeb8d0-ed32-45cb-89a7-fce5a6efafc9,strengths.agency,available,7.99,,62,6,9,name.com,,
 4de25230-f5cc-4264-bc74-bd09f7a38125,getlucky.agency,resell,,,84,10,9,"Spaceship, Inc.",28/02/2026 20:30,28/02/2027 20:30
