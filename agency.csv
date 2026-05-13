@@ -179,7 +179,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 10868517-37aa-401e-954a-436970548b62,queried.agency,available,7.99,,57,2,7,name.com,,
 10a1be84-5613-4462-b78c-da8c039316a4,electricaltape.agency,available,7.99,,64,1,15,name.com,,
 10ba4acd-2031-4506-a4f0-1e7bedb29e37,busfare.agency,available,7.99,,70,1,8,name.com,,
-10cd11f1-6db2-49b8-a224-a5077376d27e,Greg.agency,resell,,,66,35,4,"Sav.com, LLC - 20",28/11/2025 15:15,28/11/2026 15:15
+10cd11f1-6db2-49b8-a224-a5077376d27e,Greg.agency,resell,,,66,34,4,"Sav.com, LLC - 20",28/11/2025 15:15,28/11/2026 15:15
 10dedb1f-9f29-422c-8b84-5058b0ad54d3,expires.agency,available,7.99,,50,4,7,name.com,,
 11006748-d73c-423d-b32b-441c69de160b,filings.agency,available,7.99,,48,8,7,name.com,,
 112eba52-85ca-45bd-beff-7557438877bb,rumcake.agency,available,7.99,,81,3,8,name.com,,
