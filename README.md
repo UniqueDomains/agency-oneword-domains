@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .agency one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **9,695 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,695 domains · **Median ask:** $11.81 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,695 domains · **Median ask:** $11.03 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/agency`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| HarryPotter.agency | available | $41.98    | —             | 72             | 20     | 12     | namecheap                                                 |
-| lets.agency        | resell    | —         | —             | 77             | 39     | 4      | Sav.com, LLC - 31                                         |
-| pages.agency       | premium   | $69.30    | $138.60       | 52             | 28     | 5      | namecheap                                                 |
-| generations.agency | available | $7.99     | —             | 56             | 20     | 11     | name.com                                                  |
-| Greg.agency        | resell    | —         | —             | 66             | 34     | 4      | Sav.com, LLC - 20                                         |
-| Keith.agency       | premium   | $14       | $28           | 66             | 25     | 5      | namecheap                                                 |
-| mathematics.agency | available | $7.99     | —             | 68             | 19     | 11     | name.com                                                  |
-| spectra.agency     | resell    | —         | —             | 62             | 34     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| prices.agency      | premium   | $140      | $280          | 51             | 15     | 6      | namecheap                                                 |
-| dont.agency        | available | $7.99     | —             | 42             | 18     | 4      | name.com                                                  |
-| videos.agency      | resell    | —         | —             | 52             | 30     | 6      | Sav.com, LLC - 1                                          |
-| Phillip.agency     | premium   | $14       | $28           | 70             | 14     | 7      | namecheap                                                 |
-| questions.agency   | available | $7.99     | —             | 78             | 17     | 9      | name.com                                                  |
-| dogs.agency        | resell    | —         | —             | 76             | 28     | 4      | Sav.com, LLC - 3                                          |
-| SantaClara.agency  | premium   | $14       | $28           | 75             | 9      | 11     | namecheap                                                 |
-| dads.agency        | available | $7.99     | —             | 60             | 17     | 4      | name.com                                                  |
-| photos.agency      | resell    | —         | —             | 54             | 28     | 6      | GoDaddy.com, LLC                                          |
-| carols.agency      | premium   | $14       | $28           | 56             | 7      | 6      | namecheap                                                 |
-| fonts.agency       | available | $7.99     | —             | 58             | 17     | 5      | name.com                                                  |
-| inspiration.agency | resell    | —         | —             | 88             | 27     | 11     | Sav.com, LLC - 4                                          |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| piss.agency          | available | $7.99     | —             | 112            | 26     | 4      | name.com                                                  |
+| index.agency         | resell    | —         | —             | 64             | 49     | 5      | Dynadot Inc                                               |
+| post.agency          | premium   | $280      | $560          | 72             | 41     | 4      | namecheap                                                 |
+| trinity.agency       | available | $7.99     | $39.99        | 72             | 25     | 7      | name.com                                                  |
+| social.agency        | resell    | —         | —             | 92             | 47     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| rip.agency           | premium   | $46.20    | $92.40        | 58             | 31     | 3      | namecheap                                                 |
+| fuckyou.agency       | available | $7.99     | —             | 52             | 22     | 8      | name.com                                                  |
+| car.agency           | resell    | —         | —             | 94             | 46     | 3      | Spaceship, Inc.                                           |
+| long.agency          | premium   | $69.30    | $138.60       | 70             | 26     | 4      | namecheap                                                 |
+| isle.agency          | available | $7.99     | —             | 70             | 20     | 4      | name.com                                                  |
+| auto.agency          | resell    | —         | —             | 68             | 46     | 4      | GoDaddy Online Services Cayman Islands Ltd.               |
+| town.agency          | premium   | $46.20    | $92.40        | 56             | 25     | 4      | namecheap                                                 |
+| receipt.agency       | available | $7.99     | —             | 94             | 19     | 7      | name.com                                                  |
+| poker.agency         | resell    | —         | —             | 100            | 44     | 5      | GoDaddy.com, LLC                                          |
+| conference.agency    | premium   | $46.20    | $92.40        | 74             | 24     | 10     | namecheap                                                 |
+| happybirthday.agency | available | $7.99     | —             | 116            | 18     | 14     | name.com                                                  |
+| cube.agency          | resell    | —         | —             | 92             | 44     | 4      | Spaceship, Inc.                                           |
+| labor.agency         | premium   | $280      | $560          | 64             | 24     | 5      | namecheap                                                 |
+| composite.agency     | available | $7.99     | $39.99        | 107            | 18     | 9      | name.com                                                  |
+| fucking.agency       | resell    | —         | —             | 58             | 43     | 7      | Sav.com, LLC - 21                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
