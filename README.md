@@ -1,10 +1,10 @@
-# Available .AGENCY One-Word Domains (9,695)
+# Available .AGENCY One-Word Domains (9,736)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C695%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C736%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .agency one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,695 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,736 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,695 domains · **Median ask:** $11.03 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,736 domains · **Median ask:** $10.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/agency`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/agency`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .AGENCY one-word domai
 
 ### Files
 
-- `agency.csv` — public CSV extract (1,000 rows)
-- `agency.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `agency.csv`, public CSV extract (1,000 rows)
+- `agency.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| piss.agency          | available | $7.99     | —             | 112            | 26     | 4      | name.com                                                  |
-| index.agency         | resell    | —         | —             | 64             | 49     | 5      | Dynadot Inc                                               |
-| post.agency          | premium   | $280      | $560          | 72             | 41     | 4      | namecheap                                                 |
-| trinity.agency       | available | $7.99     | $39.99        | 72             | 25     | 7      | name.com                                                  |
-| social.agency        | resell    | —         | —             | 92             | 47     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| rip.agency           | premium   | $46.20    | $92.40        | 58             | 31     | 3      | namecheap                                                 |
-| fuckyou.agency       | available | $7.99     | —             | 52             | 22     | 8      | name.com                                                  |
-| car.agency           | resell    | —         | —             | 94             | 46     | 3      | Spaceship, Inc.                                           |
-| long.agency          | premium   | $69.30    | $138.60       | 70             | 26     | 4      | namecheap                                                 |
-| isle.agency          | available | $7.99     | —             | 70             | 20     | 4      | name.com                                                  |
-| auto.agency          | resell    | —         | —             | 68             | 46     | 4      | GoDaddy Online Services Cayman Islands Ltd.               |
-| town.agency          | premium   | $46.20    | $92.40        | 56             | 25     | 4      | namecheap                                                 |
-| receipt.agency       | available | $7.99     | —             | 94             | 19     | 7      | name.com                                                  |
-| poker.agency         | resell    | —         | —             | 100            | 44     | 5      | GoDaddy.com, LLC                                          |
-| conference.agency    | premium   | $46.20    | $92.40        | 74             | 24     | 10     | namecheap                                                 |
-| happybirthday.agency | available | $7.99     | —             | 116            | 18     | 14     | name.com                                                  |
-| cube.agency          | resell    | —         | —             | 92             | 44     | 4      | Spaceship, Inc.                                           |
-| labor.agency         | premium   | $280      | $560          | 64             | 24     | 5      | namecheap                                                 |
-| composite.agency     | available | $7.99     | $39.99        | 107            | 18     | 9      | name.com                                                  |
-| fucking.agency       | resell    | —         | —             | 58             | 43     | 7      | Sav.com, LLC - 21                                         |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| lie.agency  | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
+| ana.agency  | resell    | —         | —             | high           | low    | 3      | IONOS SE                                    |
+| gag.agency  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                   |
+| nun.agency  | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
+| bug.agency  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 26                           |
+| rip.agency  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                   |
+| tug.agency  | available | $7.99     | —             | high           | low    | 3      | name.com                                    |
+| car.agency  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                             |
+| aide.agency | premium   | $280      | $560          | high           | low    | 4      | namecheap                                   |
+| xvi.agency  | available | $7.99     | $39.99        | medium         | low    | 3      | name.com                                    |
+| hat.agency  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 19                           |
+| ISBN.agency | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
+| alky.agency | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
+| auto.agency | resell    | —         | —             | medium         | medium | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| long.agency | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
+| aunt.agency | available | $7.99     | —             | high           | low    | 4      | name.com                                    |
+| bank.agency | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
+| post.agency | premium   | $280      | $560          | high           | medium | 4      | namecheap                                   |
+| avon.agency | available | $7.99     | —             | high           | low    | 4      | name.com                                    |
+| Bets.agency | resell    | —         | —             | high           | low    | 4      | Netregistry Wholesale Pty Ltd               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,695 live domains                         |
+| 1,000-row public sample | 9,736 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .agency extension, which makes them most relevant for buyers who want a name that clearly signals services, representation, recruiting, marketing, talent, or specialist advisory work. The set includes clean category terms such as art.agency, tax.agency, grocery.agency, and commercial.agency, along with broader or more unusual words like aerial.agency and forgiving.agency. When comparing these domains, focus first on whether the keyword naturally fits an agency business model, then weigh ask price against memorability, search intent, and possible trademark issues. Names containing established brands, such as eBay.agency, need especially careful legal review.
+This list contains one-word domain names on the .agency extension. The set spans 8,420 Available names, 1,158 Resell listings, and 158 Premium names. Pricing skews low: 7,607 domains sit under $500, with a median ask near $10. Demand signals are mostly modest, though a small group of names ranks in the top tier for buyer interest.
 
-- Exact-match keywords can signal niche authority quickly
-- Median ask is $11,817 across this .agency selection
-- Broad words vary widely in commercial clarity and fit
-- Brand-linked terms need careful trademark review
+- 8,420 Available, 1,158 Resell, 158 Premium listings
+- Median ask near $10; 7,607 domains under $500
+- Modern-style naming dominates (7,494 of the set)
+- 5,874 names flagged as easy to spell
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
