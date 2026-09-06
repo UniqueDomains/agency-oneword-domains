@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .agency one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,751 domains · **Median ask:** $7.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/agency`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| lie.agency  | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
-| ana.agency  | resell    | —         | —             | high           | low    | 3      | IONOS SE                                    |
-| gag.agency  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                   |
-| nun.agency  | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
-| bug.agency  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 26                           |
-| rip.agency  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                   |
-| tug.agency  | available | $7.99     | —             | high           | low    | 3      | name.com                                    |
-| car.agency  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                             |
-| aide.agency | premium   | $280      | $560          | high           | low    | 4      | namecheap                                   |
-| xvi.agency  | available | $7.99     | $39.99        | medium         | low    | 3      | name.com                                    |
-| hat.agency  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 19                           |
-| ISBN.agency | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
-| alky.agency | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
-| auto.agency | resell    | —         | —             | medium         | medium | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| long.agency | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
-| arse.agency | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
-| bank.agency | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
-| post.agency | premium   | $280      | $560          | high           | medium | 4      | namecheap                                   |
-| aunt.agency | available | $7.99     | —             | high           | low    | 4      | name.com                                    |
-| Bets.agency | resell    | —         | —             | high           | low    | 4      | Netregistry Wholesale Pty Ltd               |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| quiet.agency  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC                                |
+| period.agency | available | $7.99     | —             | high           | low    | 6      | name.com                                    |
+| lie.agency    | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
+| ana.agency    | resell    | —         | —             | high           | low    | 3      | IONOS SE                                    |
+| gag.agency    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                   |
+| nun.agency    | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
+| bug.agency    | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 26                           |
+| rip.agency    | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                   |
+| tug.agency    | available | $7.99     | —             | high           | low    | 3      | name.com                                    |
+| car.agency    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                             |
+| aide.agency   | premium   | $280      | $560          | high           | low    | 4      | namecheap                                   |
+| xvi.agency    | available | $7.99     | $39.99        | medium         | low    | 3      | name.com                                    |
+| hat.agency    | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 19                           |
+| ISBN.agency   | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
+| alky.agency   | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
+| auto.agency   | resell    | —         | —             | medium         | medium | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| long.agency   | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
+| arse.agency   | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
+| bank.agency   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
+| post.agency   | premium   | $280      | $560          | high           | medium | 4      | namecheap                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
