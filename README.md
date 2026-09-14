@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .agency one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,277 domains · **Median ask:** $7.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/agency`
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | lie.agency  | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
 | ana.agency  | resell    | —         | —             | high           | low    | 3      | IONOS SE                                    |
-| gag.agency  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                   |
+| age.agency  | premium   | $42.90    | $85.80        | medium         | low    | 3      | namecheap                                   |
 | nun.agency  | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
 | bug.agency  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 26                           |
-| rip.agency  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                   |
+| gag.agency  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                   |
 | tug.agency  | available | $7.99     | —             | high           | low    | 3      | name.com                                    |
 | car.agency  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                             |
-| aide.agency | premium   | $280      | $560          | high           | low    | 4      | namecheap                                   |
+| rip.agency  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                   |
 | xvi.agency  | available | $7.99     | $39.99        | medium         | low    | 3      | name.com                                    |
 | hat.agency  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 19                           |
-| ISBN.agency | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
+| aide.agency | premium   | $280      | $560          | high           | low    | 4      | namecheap                                   |
 | alky.agency | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
 | auto.agency | resell    | —         | —             | medium         | medium | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| long.agency | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
+| ISBN.agency | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
 | arse.agency | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
 | bank.agency | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
-| post.agency | premium   | $280      | $560          | high           | medium | 4      | namecheap                                   |
+| long.agency | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
 | aunt.agency | available | $7.99     | —             | high           | low    | 4      | name.com                                    |
 | Bets.agency | resell    | —         | —             | high           | low    | 4      | Netregistry Wholesale Pty Ltd               |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
