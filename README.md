@@ -1,10 +1,10 @@
-# Available .AGENCY One-Word Domains (19,827)
+# Available .AGENCY One-Word Domains (21,636)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C827%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C636%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .agency one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,827 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,636 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,827 domains · **Median ask:** $7.29 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 21,636 domains · **Median ask:** $7.33 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/agency`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| quiet.agency  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC                                |
-| period.agency | available | $7.99     | —             | high           | low    | 6      | name.com                                    |
-| count.agency  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC                                |
-| skill.agency  | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                             |
-| lie.agency    | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
-| ana.agency    | resell    | —         | —             | high           | low    | 3      | IONOS SE                                    |
-| age.agency    | premium   | $42.90    | $85.80        | medium         | low    | 3      | namecheap                                   |
-| nun.agency    | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
-| bug.agency    | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 26                           |
-| gag.agency    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                   |
-| tug.agency    | available | $7.99     | —             | high           | low    | 3      | name.com                                    |
-| car.agency    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                             |
-| rip.agency    | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                   |
-| xvi.agency    | available | $7.99     | $39.99        | medium         | low    | 3      | name.com                                    |
-| hat.agency    | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 19                           |
-| aide.agency   | premium   | $280      | $560          | high           | low    | 4      | namecheap                                   |
-| alky.agency   | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
-| auto.agency   | resell    | —         | —             | medium         | medium | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| ISBN.agency   | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
-| arse.agency   | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| lie.agency  | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
+| ana.agency  | resell    | —         | —             | high           | low    | 3      | IONOS SE                                    |
+| age.agency  | premium   | $42.90    | $85.80        | medium         | low    | 3      | namecheap                                   |
+| nun.agency  | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
+| bug.agency  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 26                           |
+| gag.agency  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                   |
+| tug.agency  | available | $7.99     | —             | high           | low    | 3      | name.com                                    |
+| car.agency  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                             |
+| rip.agency  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                   |
+| xvi.agency  | available | $7.99     | $39.99        | medium         | low    | 3      | name.com                                    |
+| hat.agency  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 19                           |
+| aide.agency | premium   | $280      | $560          | high           | low    | 4      | namecheap                                   |
+| alky.agency | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
+| auto.agency | resell    | —         | —             | medium         | medium | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| ISBN.agency | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
+| arse.agency | available | $4.98     | $41.98        | low            | low    | 4      | namecheap                                   |
+| bank.agency | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
+| long.agency | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap                                   |
+| aunt.agency | available | $7.99     | —             | high           | low    | 4      | name.com                                    |
+| Bets.agency | resell    | —         | —             | high           | low    | 4      | Netregistry Wholesale Pty Ltd               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,827 live domains                        |
+| 1,000-row public sample | 21,636 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
