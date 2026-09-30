@@ -1,10 +1,10 @@
-# Available .AGENCY One-Word Domains (19,949)
+# Available .AGENCY One-Word Domains (21,387)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C949%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C387%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .agency one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,949 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,387 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,949 domains · **Median ask:** $8.98 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 21,387 domains · **Median ask:** $9.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/agency`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| retail.agency      | resell    | —         | —             | high           | low    | 6      | UM DOMAINS PTE. LTD                                       |
-| coach.agency       | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC                                              |
-| booster.agency     | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| further.agency     | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC                                              |
-| really.agency      | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 45                                         |
-| strong.agency      | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                               |
-| bed.agency         | premium   | $36.32    | $72.57        | high           | low    | 3      | porkbun                                                   |
-| graphics.agency    | premium   | $512      | $512          | high           | low    | 8      | namesilo                                                  |
-| regular.agency     | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 24                                         |
-| casual.agency      | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                               |
-| proficient.agency  | resell    | —         | —             | high           | low    | 10     | Sav.com, LLC - 11                                         |
-| main.agency        | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| prepare.agency     | available | $9.99     | $30.99        | high           | low    | 7      | namesilo                                                  |
-| stamp.agency       | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 5                                          |
-| educated.agency    | available | $9.99     | $30.99        | high           | low    | 8      | namesilo                                                  |
-| review.agency      | resell    | —         | —             | high           | medium | 6      | Squarespace Domains II LLC                                |
-| electricity.agency | resell    | —         | —             | high           | low    | 11     | Sav.com, LLC - 44                                         |
-| xiv.agency         | available | $9.99     | $30.99        | high           | low    | 3      | namesilo                                                  |
-| alias.agency       | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| photography.agency | resell    | —         | —             | high           | low    | 11     | Spaceship, Inc.                                           |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| bjp.agency   | available | $7.99     | —             | high           | low    | 3      | name.com                                                  |
+| aba.agency   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 7                                          |
+| bed.agency   | premium   | $36.32    | $72.57        | high           | low    | 3      | porkbun                                                   |
+| fey.agency   | available | $4.98     | $41.98        | medium         | low    | 3      | namecheap                                                 |
+| acl.agency   | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| dye.agency   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| hdl.agency   | available | $4.98     | $41.98        | high           | low    | 3      | namecheap                                                 |
+| aec.agency   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 42                                         |
+| lip.agency   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| khz.agency   | available | $9.99     | $30.99        | high           | low    | 3      | namesilo                                                  |
+| aia.agency   | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| anne.agency  | premium   | $13       | $26           | high           | low    | 4      | namecheap                                                 |
+| lxv.agency   | available | $4.98     | $41.98        | medium         | low    | 3      | namecheap                                                 |
+| cod.agency   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 39                                         |
+| halls.agency | premium   | $64.35    | $128.70       | high           | low    | 5      | namecheap                                                 |
+| lxx.agency   | available | $4.98     | $41.98        | medium         | low    | 3      | namecheap                                                 |
+| dis.agency   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 17                                         |
+| jacks.agency | premium   | $23.60    | $23.60        | high           | low    | 5      | namesilo                                                  |
+| wwf.agency   | available | $9.50     | —             | high           | low    | 3      | unstoppable                                               |
+| hex.agency   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,949 live domains                        |
+| 1,000-row public sample | 21,387 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AGENCY One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
